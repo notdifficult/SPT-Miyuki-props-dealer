@@ -1,0 +1,12 @@
+{ 
+  "manifest" : [
+    {
+      "key": "props/nd_item_vaz21099.bundle",
+      "dependencyKeys": []
+    },
+    {
+      "key" : "props/nd_item_cube.bundle",
+      "dependencyKeys": [] 
+    }
+  ]
+}
