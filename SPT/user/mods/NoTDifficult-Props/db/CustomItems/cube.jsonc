@@ -1,17 +1,20 @@
 {
   // Unique ID for this custom item | Уникальный идентификатор для этого пользовательского элемента
   "6a21e2bae3e2b77f45049599": {
+
     // The vanilla Tarkov template ID of the item it's copying properties from (e.g., another belt or container) | Идентификатор ванильного шаблона Tarkov для предмета, свойства которого копируются (например, другого ремня или контейнера) 66572c82ad599021091c6118 фигурка килла
     "itemTplToClone": "66572c82ad599021091c6118",
+
     // The parent category ID in the game’s item database, controls where it appears in the item tree | Идентификатор родительской категории в базе данных предметов игры определяет, где она будет отображаться в дереве предметов.
     "parentId": "57864a3d24597754843f8721",
+
     // The parent category in the handbook (for sorting/grouping in the UI for FleaMarket) | Родительская категория в справочнике (для сортировки/группировки в пользовательском интерфейсе FleaMarket)
     "handbookParentId": "5b47574386f77428ca22b2f1",
 
 
-      
     // Properties that will override what the "itemTplToClone" has by default | Свойства, которые переопределяют значения по умолчанию в "itemTplToClone"
     "overrideProperties": {
+
       // Make this item examined (visible) by default in the player's inventory | Сделайте этот предмет проверяемым (видимым) по умолчанию в инвентаре игрока
       "ExaminedByDefault": true,
 
@@ -27,7 +30,10 @@
       "Width": 2,
       "Height": 2,
       // How much it weighs (kg) | Сколько он весит (кг)
-      "Weight": 2.00,
+      "Weight": 0.50,
+      "StackMaxSize": 64,
+      "BackgroundColor": "blue",
+      "ItemSound": "generic",
 
           
       // The grid ("container slots") inside the item where you can put other things | Сетка («слоты контейнера») внутри элемента, в которую можно поместить другие предметы
