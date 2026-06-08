@@ -9,7 +9,7 @@
     "parentId": "57864a3d24597754843f8721",
     // The parent category in the handbook (for sorting/grouping in the UI for FleaMarket) | Родительская категория в справочнике (для сортировки/группировки в пользовательском интерфейсе FleaMarket)
     "handbookParentId": "5b47574386f77428ca22b2f1",
-      // Properties that will override what the "itemTplToClone" has by default | Свойства, которые переопределяют значения по умолчанию в "itemTplToClone"
+    // Properties that will override what the "itemTplToClone" has by default | Свойства, которые переопределяют значения по умолчанию в "itemTplToClone"
     "overrideProperties": 
     {
       // Make this item examined (visible) by default in the player's inventory | Сделайте этот предмет проверяемым (видимым) по умолчанию в инвентаре игрока
@@ -29,7 +29,7 @@
       // How much it weighs (kg) | Сколько он весит (кг)
       "Weight": 970.00,
       "StackMaxSize": 99,
-            // The grid ("container slots") inside the item where you can put other things | Сетка («слоты контейнера») внутри элемента, в которую можно поместить другие предметы
+      // The grid ("container slots") inside the item where you can put other things | Сетка («слоты контейнера») внутри элемента, в которую можно поместить другие предметы
       "Grids": 
       [
         {
@@ -103,14 +103,14 @@
     {
       "en": 
       {
-        "name": "CAR VAZ 21099",
-        "shortName": "VAZ21099",
+        "name": "VAZ 21099",
+        "shortName": "VAZ 21099",
         "description": "this is fcking russian car. Have you ever wanted to put a car in your pocket? Now you can afford it. The engine is 1.5 MT (78 hp) and the weight is 970 kg. You'll need some kind of magic to take it with you)"
       },
       "ru": 
       {
-        "name": "CAR VAZ 21099",
-        "shortName": "VAZ21099",
+        "name": "ВАЗ 21099",
+        "shortName": "ВАЗ 21099",
         "description": "Ты когда-нибудь хотел засунуть автомобиль в карман? Теперь ты это можешь себе позволить. мотор 1.5 MT (78 л. с.) а вес — 970 кг. Тебе потребуеся какая то магия, что бы унести это с собой)"
       }
     },
