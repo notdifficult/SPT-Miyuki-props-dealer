@@ -6,18 +6,24 @@
 
 ## What This Mod Does?
 
-> This mod adds different objects to the game, created for entertainment purposes.
+> This mod adds different objects to the game, created for entertainment purposes. 
+
+> Suitable for those who want to shoot some videos as props.
+
+<img src="https://sun9-63.userapi.com/s/v1/ig2/4gjJOLs7abzoaopWH2YGdUwJlQXzFro1hrjHUyz1pXeuwPz7UxW2lvFA79_rdv0Ezy1y0yoDgCmv2pmj2BSMJleB.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&u=EGSz1LV4n6am6dd2nOhHEYVxyrAnLWZeOVY1Qud0GDc&cs=2560x0" width="1080" height="607">
 
 
 ## Props list
 1. Cube
-`img soon`
-
 2. VAZ 21099
-`img soon`
+3. VAZ 2105 `soon`
+4. barricades `soon`
 
+## Trader list
+1. Miyuki props dealer `soon`
 
 ## Installation
+<img src="https://i.imgur.com/34vXXDj.gif" width="1080" height="607">
 
 1. download the latest release zip.
 2. Extract the zip so that `NoTDifficult-Props` ends up in:
@@ -39,6 +45,7 @@
 | SPT Wiki Modding Resources | https://wiki.sp-tarkov.com/modding/Modding_Resources |
 | SPT Client Mod Examples | https://github.com/Jehree/SPTClientModExamples |
 | WelcomeToTarkov | https://github.com/WelcomeToTarkov |
+| MODELS VAZ 21099 | https://sketchfab.com/3d-models/1991-vaz-21099-4a1ada9d2847461db4bc99c35194a55c |
 
 ---
 
