@@ -39,15 +39,15 @@
     {
       "en": 
       {
-        "name": "Fcking cube",
-        "shortName": "cube",
-        "description": "this is fcking cube"
+        "name": "Cube",
+        "shortName": "Cube",
+        "description": "this is fcking cube, You can hide behind it, you can build a house out of it, you can even marry it, just find a use for it!"
       },
       "ru": 
       {
-        "name": "Гребаный куб",
-        "shortName": "куб",
-        "description": "Это гребаный куб мать его, ты можешь за ним прятаться, можешь построить из него дом, можешь хоть женится на нем, просто найди ему применение!"
+        "name": "Куб",
+        "shortName": "Куб",
+        "description": "Это грёбаный куб мать его, ты можешь спрятаться за ним, ты можешь построить из него дом, ты даже можешь жениться на нем, просто найдите ему применение!"
       }
     },
 
