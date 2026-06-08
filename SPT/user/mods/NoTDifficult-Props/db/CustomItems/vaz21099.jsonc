@@ -1,10 +1,13 @@
 {
-  // Unique ID for this custom item | Уникальный идентификатор для этого пользовательского элемента
-  "6a21e6aec4b41dd310c480e2": {
+    // Unique ID for this custom item | Уникальный идентификатор для этого пользовательского элемента
+    "6a21e6aec4b41dd310c480e2": {
+
     // The vanilla Tarkov template ID of the item it's copying properties from (e.g., another belt or container) | Идентификатор ванильного шаблона Tarkov для предмета, свойства которого копируются (например, другого ремня или контейнера) 66572c82ad599021091c6118 фигурка килла
     "itemTplToClone": "66572c82ad599021091c6118",
+    
     // The parent category ID in the game’s item database, controls where it appears in the item tree | Идентификатор родительской категории в базе данных предметов игры определяет, где она будет отображаться в дереве предметов.
     "parentId": "57864a3d24597754843f8721",
+
     // The parent category in the handbook (for sorting/grouping in the UI for FleaMarket) | Родительская категория в справочнике (для сортировки/группировки в пользовательском интерфейсе FleaMarket)
     "handbookParentId": "5b47574386f77428ca22b2f1",
 
@@ -12,11 +15,12 @@
       
     // Properties that will override what the "itemTplToClone" has by default | Свойства, которые переопределяют значения по умолчанию в "itemTplToClone"
     "overrideProperties": {
-      // Make this item examined (visible) by default in the player's inventory | Сделайте этот предмет проверяемым (видимым) по умолчанию в инвентаре игрока
-      "ExaminedByDefault": true,
 
-      // Asset prefab for this item: what 3D model and icon the game should use | Префаб для этого элемента: какую 3D-модель и иконку использовать в игре
-      "Prefab": {
+    // Make this item examined (visible) by default in the player's inventory | Сделайте этот предмет проверяемым (видимым) по умолчанию в инвентаре игрока
+    "ExaminedByDefault": true,
+
+    // Asset prefab for this item: what 3D model and icon the game should use | Префаб для этого элемента: какую 3D-модель и иконку использовать в игре
+    "Prefab": {
         // Path to the AssetBundle file for the item | Путь к файлу AssetBundle для элемента
         "path": "props/nd_item_vaz21099.bundle",
         "rcid": ""
@@ -24,38 +28,106 @@
 
           
       // Inventory size: 2x2 grid spaces | Размер инвентаря: 2х2 ячейки
-      "Width": 3,
-      "Height": 2,
+      "Width": 5,
+      "Height": 3,
       // How much it weighs (kg) | Сколько он весит (кг)
-      "Weight": 10.00,
-
+      "Weight": 970.00,
+      "StackMaxSize": 99,
           
       // The grid ("container slots") inside the item where you can put other things | Сетка («слоты контейнера») внутри элемента, в которую можно поместить другие предметы
-      "Grids":[]
-    },
 
 
           
-    // How the item will appear in different languages ("locales") | Как элемент будет отображаться на разных языках («локалях»)
-    "locales": {
-      "en": {
-        "name": "CAR VAZ 21099",
-        "shortName": "VAZ21099",
-        "description": "this is fcking russian car"
+      // How the item will appear in different languages ("locales") | Как элемент будет отображаться на разных языках («локалях»)
+      "locales": {
+        "en": {
+          "name": "CAR VAZ 21099",
+          "shortName": "VAZ21099",
+          "description": "this is fcking russian car. Have you ever wanted to put a car in your pocket? Now you can afford it. The engine is 1.5 MT (78 hp) and the weight is 970 kg. You'll need some kind of magic to take it with you)"
+        },
+        "ru": {
+          "name": "CAR VAZ 21099",
+          "shortName": "VAZ21099",
+          "description": "Ты когда-нибудь хотел засунуть автомобиль в карман? Теперь ты это можешь себе позволить. мотор 1.5 MT (78 л. с.) а вес — 970 кг. Тебе потребуеся какая то магия, что бы унести это с собой)"
+        }
       },
-      "ru": {
-        "name": "CAR VAZ 21099",
-        "shortName": "VAZ21099",
-        "description": "Ты когда-нибудь хотел засунуть автомобиль в карман? Теперь ты это можешь себе позволить."
-      }
-    },
 
+
+      // The grid ("container slots") inside the item where you can put other things | Сетка («слоты контейнера») внутри элемента, в которую можно поместить другие предметы
+      "Grids": [
+        {
+          "_id": "59fb042886f7746c5005a7b3",
+          "_name": "main",
+          "_parent": "59fb042886f7746c5005a7b2",
+          "_props": {
+            "cellsH": 6,
+            "cellsV": 6,
+            "filters": [
+              {
+                "ExcludedFilter": [],
+                "Filter": [
+                "5448eb774bdc2d0a728b4567",
+                "543be5f84bdc2dd4348b456a",
+                "5448fe124bdc2da5018b4567",
+                "5448e53e4bdc2d60728b4567",
+                "5448e5284bdc2dcb718b4567",
+                "60b0f6c058e0b0481a09ad11",
+                "5aafbde786f774389d0cbc0f",
+                "619cbf9e0a7c3a1a2731940a",
+                "5c093db286f7740a1b2617e3",
+                "5e2af55f86f7746d4159f07c",
+                "619cbf7d23893217ec30b689",
+                "59fafd4b86f7745ca07e1232",
+                "62a09d3bcf4a99369e262447",
+                "5d235bb686f77443f4331278",
+                "5c127c4486f7745625356c13",
+                "5aafbcd986f7745e590fff23",
+                "59fb016586f7746d0d4b423a",
+                "5c093e3486f77430cb02e593",
+                "590c60fc86f77412b13fddcf",
+                "5783c43d2459774bbe137486",
+                "5422acb9af1c889c16000029",
+                "543be6674bdc2df1348b4569",
+                "5448ecbe4bdc2d60728b4568",
+                "543be5e94bdc2df1348b4568",
+                "5447e1d04bdc2dff2f8b4567",
+                "567849dd4bdc2d150f8b456e",
+                "543be5664bdc2dd4348b4569",
+                "5f4fbaaca5573a5ac31db429",
+                "61605ddea09d851a0a0c1bbc",
+                "616eb7aea207f41933308f46",
+                "5991b51486f77447b112d44f",
+                "5ac78a9b86f7741cca0bbd8d",
+                "5b4391a586f7745321235ab2",
+                "5af056f186f7746da511291f",
+                "544fb5454bdc2df8738b456a",
+                "5661632d4bdc2d903d8b456b",
+                "543be6564bdc2df4348b4568",
+                "6759673c76e93d8eb20b2080",
+                "67d3ed3271c17ff82e0a5b0b"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
 
           
     // Price it will go for on the flea market (in roubles) | Цена, за которую его продадут на барахолке (в рублях)
     "fleaPriceRoubles": 75000,
     // Price in the handbook | Цена в справочнике
     "handbookPriceRoubles": 75000,
+    "BackgroundColor": "blue",
+    "ItemSound": "generic",
+    "sizeHeight": 6,
+    "sizeWidth": 6,
+    "containType": [],
+    "lootFilter": [],
 
 
 
@@ -91,14 +163,18 @@
     ],
       
     // Can it be used as generator fuel in hideout? | Можно ли использовать его в качестве топлива для генератора в убежище?
-    "addtoGeneratorAsFuel": false,
+    "addtoGeneratorAsFuel": true,
     // What stages of the generator it can be used in | На каких этапах работы генератора его можно использовать
     "generatorFuelSlotStages": [
       "1",
       "2",
       "3"
     ],
-      
+    "Resource": 100,
+    "LootExperience": 1850,
+    "MaxResource": 100,
+
+
     // Should it dynamically create a slot for a VANILLA ITEM THAT HAS A BONE PRESENT BUT NO SLOTS IN IT'S PROPS? | Нужно ли динамически создавать слот для ВАНИЛЬНОГО ПРЕДМЕТА, У КОТОРОГО ЕСТЬ КОСТКА, НО НЕТ СЛОТОВ В СВОЙСТВАХ?
     "addtoEmptyPropSlots": false,
     // Details for ONE empty prop slot it should be added to | Подробная информация об ОДНОМ незаполненном слоте для реквизита, который необходимо добавить
