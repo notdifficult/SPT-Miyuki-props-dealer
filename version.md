@@ -4,6 +4,7 @@
 - rename cube > Polarius cube
 - add ND prefixes (for a quick search)
 - add maxwell the cat
+- add oiia cat
 
 1.0.0
 - mod create
