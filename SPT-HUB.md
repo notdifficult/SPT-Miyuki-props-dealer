@@ -1,4 +1,4 @@
-# SPT-NoTDifficult-Props
+# Miyuki props dealer
 
 > My Mod add random props `The mod is in the development process` my first test mod for Tarkov, I'm training to create mods, I want to diversify the game with various objects, portable shelters, meme, fun, collection objects.
 
@@ -6,16 +6,16 @@
 
 ## What This Mod Does?
 
-![prev](https://raw.githubusercontent.com/notdifficult/SPT-NoTDifficult-Props/main/image/Prev.jpg)
+![prev](https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/image/Prev.jpg)
 
 > This mod adds different objects to the game, created for entertainment purposes. 
 > Suitable for those who want to shoot some videos as props.
 
 ## Props list
 
-![prev](https://raw.githubusercontent.com/notdifficult/SPT-NoTDifficult-Props/main/image/item101prev.jpg)
+![prev](https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/image/item101prev.jpg)
 
-> ### My items have ND prefixes for a quick search
+> ### My items have MPD prefixes for a quick search
 
 1. Polarius Cube 
 2. VAZ 21099 
@@ -32,10 +32,11 @@
 ![Installation](https://i.imgur.com/afNPjAw.gif)
 
 1. download the latest release zip.
-2. Extract the zip so that `NoTDifficult-Props` ends up in:
+2. Extract the zip so that `Miyuki-props-dealer` ends up in:
    
    ```
-   SPT/user/mods/ >HERE<
+   BeplnEx/plugins/Miyuki-props-dealer
+   SPT/user/mods/Miyuki-props-dealer
    ```
 
 ## important!
