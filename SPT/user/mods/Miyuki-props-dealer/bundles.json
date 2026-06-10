@@ -1,27 +1,27 @@
 { 
   "manifest" : [
     {
-      "key": "props/nd_item_oiia.bundle",
+      "key": "props/mpd_item_oiia.bundle",
       "dependencyKeys": []
     },
     {
-      "key": "props/nd_item_maxwell.bundle",
+      "key": "props/mpd_item_maxwell.bundle",
       "dependencyKeys": []
     },
     {
-      "key": "props/nd_item_barricade.bundle",
+      "key": "props/mpd_item_barricade.bundle",
       "dependencyKeys": []
     },
     {
-      "key": "props/nd_item_vaz2105.bundle",
+      "key": "props/mpd_item_vaz2105.bundle",
       "dependencyKeys": []
     },
     {
-      "key": "props/nd_item_vaz21099.bundle",
+      "key": "props/mpd_item_vaz21099.bundle",
       "dependencyKeys": []
     },
     {
-      "key" : "props/nd_item_cube.bundle",
+      "key" : "props/mpd_item_cube.bundle",
       "dependencyKeys": [] 
     }
   ]
