@@ -10,7 +10,7 @@ public record metadata : AbstractModMetadata
     public override string Name { get; init; } = "SPT-NoTDifficult-Props";
     public override string Author { get; init; } = "NoTDifficult";
     //public override List<string>? Contributors { get; init; } = null;
-    public override Version Version { get; init; } = new Version("1.0.1");
+    public override Version Version { get; init; } = new Version("1.0.2");
     public override Range SptVersion { get; init; } = new Range("~4.0.13");
     //public override List<string>? Incompatibilities { get; init; } = null;
     //public override Dictionary<string, Range>? ModDependencies { get; init; } = null;
