@@ -6,12 +6,10 @@
 
 ## What This Mod Does?
 
-> This mod adds different objects to the game, created for entertainment purposes. 
-> Suitable for those who want to shoot some videos as props.
-
 ![prev](https://raw.githubusercontent.com/notdifficult/SPT-NoTDifficult-Props/main/image/Prev.jpg)
 
-> I uploaded it here to get feedback, please write in the comments what items you would like to see in the game, and I will try to add them 
+> This mod adds different objects to the game, created for entertainment purposes. 
+> Suitable for those who want to shoot some videos as props.
 
 ## Props list
 
@@ -23,6 +21,7 @@
 4. barricades 
 5. Maxwell the cat
 6. oiia cat
+7. `soon`
 
 ## Trader
 1. Miyuki props dealer `soon`
@@ -38,14 +37,16 @@
    ```
 
 ## important!
-VERY IMPORTANT! If you don't have mods that give physics to things, my props won't save you from bullets! Just walk through them!
+VERY IMPORTANT! If you don't have mods that give things physics, my props won't save you from bullets and grenades! because the objects will be transparent!
 
 You will also need a mod like (Loot In Vicinity) This will allow you to place items conveniently, just drag them to the drop window and the item will fall right under you.
 
-if you use Visceral Combat or any other mod with the ITEM PHYSICS feature, please note that objects will fly apart when a grenade explodes or when a strong bullet hits them. In the vanilla version of the game, objects do not move after they fall. I plan to make this feature toggleable in my mod, but it is not available yet. If you want realism in my props, you can find a mod that includes this feature. 
+if you are using Visceral Combat or any other mod with the PHYSICS of objects feature, please note that objects will fly away when a grenade explodes or a bullet hits them. In the vanilla version of the game, objects do not move when a bullet hits them because they are transparent. I plan to include this feature (object physics) in my mod, but it is not available yet. If you want realism in my props, you can find a mod that includes this feature.
 
-The weight of the items is specified for this function, which is why cars weigh so much) 
+The weight of objects is already adjusted to physics, which is why cars weigh so much, so they hardly move after a grenade explosion)
 
 I would also like to draw your attention to the fact that the player can pass through my objects, as the loot in Tarkov is transparent to the player. Once I figure out a way to fix this, I will update the information.
 
 I also ask you not to risk your gaming life by hiding behind my objects from grenades, they are able to protect well from shots and grenade fragments, but the shock wave of the grenade will kill you! However, if the grenade hits the prop, it will bounce off it)
+
+> I uploaded it here to get feedback, please write in the comments what items you would like to see in the game, and I will try to add them 
