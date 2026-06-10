@@ -13,7 +13,9 @@
 
 ## Props list
 
-### My items have ND prefixes for a quick search
+![prev](https://raw.githubusercontent.com/notdifficult/SPT-NoTDifficult-Props/main/image/item101prev.jpg)
+
+> ### My items have ND prefixes for a quick search
 
 1. Polarius Cube 
 2. VAZ 21099 
