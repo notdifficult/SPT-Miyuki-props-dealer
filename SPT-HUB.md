@@ -36,3 +36,16 @@
    ```
    SPT/user/mods/ >HERE<
    ```
+
+## important!
+VERY IMPORTANT! If you don't have mods that give physics to things, my props won't save you from bullets! Just walk through them!
+
+You will also need a mod like (Loot In Vicinity) This will allow you to place items conveniently, just drag them to the drop window and the item will fall right under you.
+
+if you use Visceral Combat or any other mod with the ITEM PHYSICS feature, please note that objects will fly apart when a grenade explodes or when a strong bullet hits them. In the vanilla version of the game, objects do not move after they fall. I plan to make this feature toggleable in my mod, but it is not available yet. If you want realism in my props, you can find a mod that includes this feature. 
+
+The weight of the items is specified for this function, which is why cars weigh so much) 
+
+I would also like to draw your attention to the fact that the player can pass through my objects, as the loot in Tarkov is transparent to the player. Once I figure out a way to fix this, I will update the information.
+
+I also ask you not to risk your gaming life by hiding behind my objects from grenades, they are able to protect well from shots and grenade fragments, but the shock wave of the grenade will kill you! However, if the grenade hits the prop, it will bounce off it)
