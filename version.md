@@ -1,10 +1,13 @@
 2.0.0
+
+> - Clear cache in launcher. 
+> - Delete old folder SPT/USER/MODS/   > SPT-NoTDifficult-Props <
+
 - mod rename Miyuki props dealer
 - fix maxwell icon
+- fix vaz 21099 icon
+- fix vaz 2105 icon
 
-> Clear cache in launcher
-
-> delete old folder SPT/USER/MODS/   > SPT-NoTDifficult-Props <
 
 
 
@@ -17,6 +20,8 @@
 - add ND prefixes (for a quick search)
 - add maxwell the cat
 - add oiia cat
+
+---
 
 1.0.0
 - mod create
