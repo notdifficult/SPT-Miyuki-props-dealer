@@ -5,7 +5,7 @@ using SPTarkov.Server.Core.Models.Logging;
 using SPTarkov.Server.Core.Models.Utils;
 using WTTServerCommonLib.Services;
 
-namespace SPTNoTDifficultProps;
+namespace SPTMiyukipropsdealer;
 
 [Injectable(InjectionType = InjectionType.Singleton, TypePriority = OnLoadOrder.PostDBModLoader + 2)]
 
@@ -15,7 +15,7 @@ public class Plugin(ISptLogger<Plugin> props, WTTCustomItemServiceExtended itemS
     
     public Task OnLoad()
     {
-        props.LogWithColor("Hello NoTDifficultProps Loading...",LogTextColor.Cyan);
+        props.LogWithColor("Hello Miyuki-props-dealer Loading...",LogTextColor.Cyan);
 
         itemService.CreateCustomItems(Assembly);
         
