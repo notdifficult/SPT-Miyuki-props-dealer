@@ -1,3 +1,6 @@
+1.0.2
+- fix maxwell icon
+
 1.0.1
 - add barricades
 - add vaz 2105
