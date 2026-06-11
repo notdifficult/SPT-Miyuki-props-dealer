@@ -1,1 +1,17 @@
-# Optional: Faction-exclusive quest configuration
+// # Optional: Faction-exclusive quest configuration
+// QuestSideData.json (Optional - Faction-Exclusive Quests):
+// Quests listed here will only be available to the specified PMC faction.
+
+{
+  "usecOnlyQuests": 
+  [
+    "quest_id_1",
+    "quest_id_2"
+  ],
+  
+  "bearOnlyQuests": 
+  [
+    "quest_id_3",
+    "quest_id_4"
+  ]
+}
