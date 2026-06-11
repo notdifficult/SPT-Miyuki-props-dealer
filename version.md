@@ -8,6 +8,11 @@
 - fix maxwell icon
 - fix vaz 21099 icon
 - fix vaz 2105 icon
+- add traders Miyuki
+- add loyality level 1-4
+- add repair service -0.4% quality
+- add all mpd mods items sale
+- add insurance (mb not work)
 
 
 
