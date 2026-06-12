@@ -4,6 +4,7 @@
 > - Delete old folder SPT/USER/MODS/   > SPT-NoTDifficult-Props <
 
 - mod rename Miyuki props dealer
+- create Miyuki story
 - fix fatal error (if not install other WTTMOD)
 - fix maxwell icon
 - fix vaz 21099 icon
@@ -12,7 +13,7 @@
 - add loyality level 1-4
 - add repair service -0.4% quality
 - add all mpd mods items sale
-- add insurance (mb not work)
+- add insurance (mb not work test)
 
 
 
