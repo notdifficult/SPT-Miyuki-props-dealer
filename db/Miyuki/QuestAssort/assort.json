@@ -1,9 +1,0 @@
-// assort.json
-// Quest Assort (QuestAssort/*.json) - Items unlocked after quest completion:
-
-{
-  "success": 
-  {
-    "assort_item_id_to_unlock": "my_quest_id"
-  }
-}
