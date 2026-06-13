@@ -1,3 +1,9 @@
+2.0.1
+- add translate script
+- add RU/EN translate
+
+---
+
 2.0.0
 
 > - Clear cache in launcher. 
