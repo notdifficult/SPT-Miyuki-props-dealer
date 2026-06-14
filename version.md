@@ -1,6 +1,7 @@
 2.0.1
 - add translate script
 - add RU/EN translate
+- add test chatbot
 
 ---
 
