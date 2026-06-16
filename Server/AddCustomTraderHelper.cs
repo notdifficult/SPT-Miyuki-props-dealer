@@ -1,4 +1,4 @@
-using SPTarkov.DI.Annotations;
+﻿using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
 using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
@@ -7,12 +7,26 @@ using SPTarkov.Server.Core.Models.Utils;
 using SPTarkov.Server.Core.Services;
 using SPTarkov.Server.Core.Utils.Cloners;
 
-namespace NoTDifficult_MiyukiPropsDealer;
+namespace MiyukiPropsDealer;
 
-[Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 2)]
-public class AddCustomTraderHelper(ISptLogger<AddCustomTraderHelper> logger, ICloner cloner, DatabaseService databaseService, LocaleService localeService)
+[Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 1)]
+public class AddCustomTraderHelper
+    (
+        ISptLogger<AddCustomTraderHelper> logger, 
+        ICloner cloner, 
+        DatabaseService databaseService, 
+        LocaleService localeService
+    )
+
 {
-    public void SetTraderUpdateTime(TraderConfig traderConfig, TraderBase baseJson, int refreshTimeSecondsMin, int refreshTimeSecondsMax)
+    public void SetTraderUpdateTime
+        (
+            TraderConfig traderConfig, 
+            TraderBase baseJson, 
+            int refreshTimeSecondsMin, 
+            int refreshTimeSecondsMax
+        )
+    
     {
         var traderRefreshRecord = new UpdateTime
         {
@@ -23,6 +37,9 @@ public class AddCustomTraderHelper(ISptLogger<AddCustomTraderHelper> logger, ICl
         traderConfig.UpdateTime.Add(traderRefreshRecord);
     }
 
+    
+    
+    
     public void AddTraderWithEmptyAssortToDb(TraderBase traderDetailsToAdd)
     {
         var emptyTraderItemAssortObject = new TraderAssort
@@ -36,7 +53,7 @@ public class AddCustomTraderHelper(ISptLogger<AddCustomTraderHelper> logger, ICl
         {
             Assort = emptyTraderItemAssortObject,
             Base = cloner.Clone(traderDetailsToAdd),
-            QuestAssort = new()
+            QuestAssort = new()                                                    // quest assort is empty as trader has no assorts unlocked by quests
             {
                 { "Started", new() },
                 { "Success", new() },
@@ -47,7 +64,7 @@ public class AddCustomTraderHelper(ISptLogger<AddCustomTraderHelper> logger, ICl
 
         if (!databaseService.GetTables().Traders.TryAdd(traderDetailsToAdd.Id, traderDataToAdd))
         {
-
+            //Failed to add trader!
         }
     }
 
@@ -82,6 +99,6 @@ public class AddCustomTraderHelper(ISptLogger<AddCustomTraderHelper> logger, ICl
             return;
         }
 
-        traderToEdit.Assort = newAssorts;
+        traderToEdit.Assort = newAssorts;                                                                               // Override the traders assorts with the ones we passed in
     }
 }
