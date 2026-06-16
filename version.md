@@ -6,6 +6,8 @@
 - add Quest Q001 dialogue
 - add Quests img
 
+`I'm currently busy writing new quests based on Miyuki's story, but I'm also looking forward to hearing your suggestions for adding new items in the comments.`
+
 ---
 
 2.0.0
