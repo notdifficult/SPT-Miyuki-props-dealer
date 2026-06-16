@@ -1,7 +1,8 @@
 2.0.1
-- add translate script
-- add RU/EN translate
+- add CustomLocales RU/EN translate
 - add test chatbot
+- add CustomQuests
+- add Quest acquaintance
 
 ---
 
