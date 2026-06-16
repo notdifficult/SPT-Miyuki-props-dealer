@@ -1,19 +1,3 @@
-# Miyuki story
-
-- English translation
-
-My name is miyuki, nice to meet you)
-I am a secret experiment number C416. developed at TerraGroup Labs.
-The essence of the experiment was to create intelligent beings who think no worse than humans. 
-they took the genes of a cat and an accidental SCAV, and they created me.
-Something didn't go according to plan, I turned out to be much smarter than they expected, and I ran away. 
-Now I live in the customs area and sell junk that would be enough for food. 
-I need people like you to rise from the bottom. 
-I will give you various tasks and we can rise from the bottom together)
-
-~ `The story continues through quests.` 
-
-
 # История Миюки
 
 - Перевод на русский
@@ -30,29 +14,52 @@ I will give you various tasks and we can rise from the bottom together)
 ~ `дальше история продолжается через квесты`
 
 
-# (NUMBER QUEST `QXXX`) (EN NAME QUEST) (RU NAME QUEST)
-`Q_000` acquaintance знакомство
+# (номер квеста `QXXX`) (название) 
+`Q_000` знакомство
 
 Русский
-- "Эй ты! 
+- Эй ты!
+  
 `(вы не поняли откуда звук)`
+
 - Ну але. я тут!
+  
 `(вы обернулись и увидели кошку)`
+
 - Что ты там стоишь, подходи поближе, я не кусаюсь.
+
 `(вы подошли к кошке)`
+
 - Будем знакомы меня зовут Миюки, а большего незнакомцу знать не нужно.
+  
 `(вас обнюхали)`
+
 - У тебя есть что-то интересное для меня?
 
-English
-- "Hey you! 
-`(you didn't understand where the sound came from)`
-- Well, hey. I'm here!
-`(you turned around and saw a cat)`
-- What are you standing there for, come closer, I don't bite.
-`(you approached the cat)`
-- Let's get to know each other, my name is Miyuki, and that's all a stranger needs to know.
-`(you were sniffed)`
-- Do you have anything interesting for me?
+` > вы протянули пачку молока` +0.05 REP
 
-`Q_001` `SOON`
+
+---
+
+
+`Q_001` диалог
+Русский
+- Ну, значит слушай...
+  
+`(локает молоко)`
+
+- Я живу тут, в планах устроить тут шикарную базу. Мне бы не помешали, такие люди как ты.
+  
+`(локает молоко)`
+
+- Тебя интересует почему я говорю? Скажу коротко. Я проект С416 сбежавший из лабы, не переживай, тебя я не сьем, но сьела бы мяса.
+  
+`(смотрит тебе в галаза)`
+
+` > вы протянули пачку вяленого мяса` +0.05 REP
+
+
+---
+
+
+`Q_002` `SOON`
