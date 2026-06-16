@@ -28,14 +28,14 @@
 
 ![prev](https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/image/MPDStory.png)
 
-> # My name is miyuki, nice to meet you)
+> # My name is Miyuki, nice to meet you)
 
 > - I am a secret experiment number C416. developed at TerraGroup Labs.
 > - The essence of the experiment was to create intelligent beings who think no worse than humans. 
 > - they took the genes of a cat and an accidental SCAV, and they created me.
 > - Something didn't go according to plan, I turned out to be much smarter than they expected, and I ran away. 
 > - Now I live in the customs area and sell junk that would be enough for food. 
-> -  I need people like you to rise from the bottom. 
+> - I need people like you to rise from the bottom. 
 > - I will give you various tasks and we can rise from the bottom together)
 
 
@@ -90,10 +90,6 @@ I also ask you not to risk your gaming life by hiding behind my objects from gre
 | barricade | https://sketchfab.com/3d-models/barricade-sandbags-lod0-18d348bd76004edd9a1c39155970382d |
 | Maxwell the cat | https://sketchfab.com/3d-models/maxwell-the-cat-with-bones-animation-4175776146ba4550a8dd643363b7b0aa |
 | oiia cat | https://sketchfab.com/3d-models/oiiaioooooiai-cat-30d27bf7fb224849b76e208a6eccdb36 |
-| People_f_01 | https://sketchfab.com/3d-models/blonde-woman-black-bikini-blue-eyes-cd4c5b5f0c294ae38a12909562188335 |
-| People_f_02 | https://sketchfab.com/3d-models/brown-draped-halter-mini-dress-3dffe1ac65094da3b9dc519ac4e0a9eb |
-| People_f_03 | https://sketchfab.com/3d-models/crimson-velvet-diva-8ac355f433334bfda580384b0aeeac24 |
-| People_f_04 | https://sketchfab.com/3d-models/monochrome-elegance-dac608bba6304180a31d87f9081dcb8a |
 ---
 
 
