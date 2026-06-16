@@ -4,7 +4,7 @@
 
 ![prev](https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/image/MPDStory.png)
 
-> # My name is miyuki, nice to meet you)
+> # My name is Miyuki, nice to meet you)
 
 > - I am a secret experiment number C416. developed at TerraGroup Labs.
 > - The essence of the experiment was to create intelligent beings who think no worse than humans. 
