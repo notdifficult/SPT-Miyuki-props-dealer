@@ -1,8 +1,10 @@
 2.0.1
 - add CustomLocales RU/EN translate
-- add test chatbot
+- add test chatbot (not functional)
 - add CustomQuests
-- add Quest acquaintance
+- add Quest Q000 acquaintance
+- add Quest Q001 dialogue
+- add Quests img
 
 ---
 
