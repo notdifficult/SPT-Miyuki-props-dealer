@@ -86,6 +86,7 @@
 ---
 `Q_003` Снабжение склада №1 (0.40 REP 5500 XP)
 ---
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a3213a36f1d71ace3d81c45.png" width="768" height="432"> 
 - О-о-о ты вернулся, выглядишь хорошо.
 
 ` (вас обнюхали) `
