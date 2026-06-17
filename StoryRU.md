@@ -17,6 +17,8 @@
 # Глава первая: Знакомство с Миюки.
 `Q_000` знакомство (0.20 REP 0 XP)
 ---
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a30a15f30aeb083bdea48be.png" width="768" height="432"> 
+
 `[Вы бродили по таможне и решили зайти в здание, вы поднялись на второй этаж и зашли в дальнюю комнату]`
 
 - Эй ты!
@@ -44,6 +46,8 @@
 ---
 `Q_001` диалог (0.25 REP 1500 XP)
 ---
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a30d0e9937ed3ced76c9488.png" width="768" height="432"> 
+
 - Ну, значит слушай...
   
 ` (лакает молоко) `
