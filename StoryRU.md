@@ -67,6 +67,8 @@
 ---
 `Q_002` Первое задание (0.30 REP 3000 XP)
 ---
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a31f49ebdc4479f88db51d7.png" width="768" height="432"> 
+
 - Это место мне нравится, но меня постоянно беспокоят.
 
 ` (вздыхает) `
