@@ -87,6 +87,7 @@
 `Q_003` Снабжение склада №1 (0.40 REP 5500 XP)
 ---
 <img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a3213a36f1d71ace3d81c45.png" width="768" height="432"> 
+
 - О-о-о ты вернулся, выглядишь хорошо.
 
 ` (вас обнюхали) `
@@ -108,6 +109,8 @@
 ---
 `Q_004` Присвоение имущества №1 (0.45 REP 7000 XP)
 ---
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a3215fd0ba3cb99405055f8.png" width="768" height="432"> 
+
 - Смотри какая красотка и совсем никому не нужна, ей бы немного ласки и в добрые руки.
 
 `(запрыгивает на заднее сидение, обнюхивает)`
@@ -129,6 +132,8 @@
 ---
 `Q_005` Снабжение склада №2 (0.50 REP 8500 XP)
 ---    
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a3219c3f6accaab1e461d31.png" width="768" height="432"> 
+
 - Так, а теперь... Пока мы сюда ехали, я видела еще одного пациента.
 
 `(выпрыгивает из машины, проходит немного прямо)`
@@ -146,6 +151,8 @@
 ---
 `Q_006` Присвоение имущества №2 (0.55 REP 10000 XP)
 ---   
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32181cc026373af1c2c653.png" width="768" height="432"> 
+
 - А вот очередной пациент! Нравится?
 
 `(обнюхивает мотор)`
@@ -165,6 +172,7 @@
 ---
 `Q_007` ?? (0.60 REP 11500 XP)
 ---   
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32181cc026373af1c2c652.png" width="768" height="432"> 
 
 
 
