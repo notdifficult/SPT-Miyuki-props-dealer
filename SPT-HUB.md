@@ -1,19 +1,31 @@
+
 # {.tabset}
 
 ## Trader
 
 ![prev](https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/image/MPDStory.png)
 
-> # My name is Miyuki, nice to meet you)
+> # character information
 
 > - I am a secret experiment number C416. developed at TerraGroup Labs.
 > - The essence of the experiment was to create intelligent beings who think no worse than humans. 
 > - they took the genes of a cat and an accidental SCAV, and they created me.
 > - Something didn't go according to plan, I turned out to be much smarter than they expected, and I ran away. 
 > - Now I live in the customs area and sell junk that would be enough for food. 
-> -  I need people like you to rise from the bottom. 
+> - I need people like you to rise from the bottom. 
 > - I will give you various tasks and we can rise from the bottom together)
 
+> # history information
+
+> - Chapter one: Acquaintance ( 8 out of 16 )
+> - Chapter two: A tense moment (soon)
+> - Chapter Three: Finding leads (soon)
+> - Chapter Four: Salvation Object M (soon)
+> - Chapter Five: Salvation Object O (soon)
+> - Chapter Six: Special assignment (soon)
+> - End Story: Tough choice (soon)
+
+`The choice will determine what the sequel will be`
 
 ## What This Mod Does?
 
