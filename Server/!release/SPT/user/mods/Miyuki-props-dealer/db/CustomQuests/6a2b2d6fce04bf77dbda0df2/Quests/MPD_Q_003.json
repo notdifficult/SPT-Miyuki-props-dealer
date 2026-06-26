@@ -1,8 +1,8 @@
 {
-    "6a30d0e9937ed3ced76c9488":
+    "6a3213a36f1d71ace3d81c45":
     {
-        "QuestName": "dialogue",
-        "_id": "6a30d0e9937ed3ced76c9488",
+        "QuestName": "first supply warehouse",
+        "_id": "6a3213a36f1d71ace3d81c45",
 
         "traderId": "6a2b2d6fce04bf77dbda0df2",
 
@@ -11,9 +11,9 @@
         "changeStandingCost": 0,
 
 
-        "image": "/files/quest/icon/6a30d0e9937ed3ced76c9488.png",
+        "image": "/files/quest/icon/6a3213a36f1d71ace3d81c45.png",
 
-        "location": "any",
+        "location": "56f40101d2720b2a4d8b45d6",
         "type": "Completion",
         "acceptanceAndFinishingSource": "eft",
         "progressSource": "eft",
@@ -74,49 +74,50 @@
                 "dispersion":  0,
                 "dynamicLocale":  false,
                 "globalQuestCounterId":  "",
-                "id":  "6a0b24653f221925eea854b1",
+                "id":  "6a32b6bfa46dfae7e69c0cbd",
                 "index":  0,
                 "parentId":  "",
                 "status":  [4],
-                "target":  "6a30a15f30aeb083bdea48be",
+                "target":  "6a31f49ebdc4479f88db51d7",
                 "visibilityConditions":  []
                 }
             ],
             "AvailableForFinish": 
             [
                 {
-                    "conditionType": "HandoverItem",
-                    "dogtagLevel": 0,
-                    "dynamicLocale": false,
-                    "globalQuestCounterId": "",
-                    "id": "6a30d34996aa468eb90f7ffd",
-                    "index": 0,
-                    "isEncoded": false,
-                    "maxDurability": 100,
-                    "minDurability": 0,
-                    "onlyFoundInRaid": false,
+                    "id": "6a3213b5428394d56e78b672",
                     "parentId": "",
+                    "dynamicLocale": false,
+                    "index": 0,
+                    "visibilityConditions": [],
+                    "globalQuestCounterId": "",
                     "target": 
                     [
-                        "65815f0e647e3d7246384e14"
+                        "5d1b36a186f7742523398433"
                     ],
                     "value": 1,
-                    "visibilityConditions": []
+                    "minDurability": 0,
+                    "maxDurability": 100,
+                    "dogtagLevel": 0,
+                    "onlyFoundInRaid": false,
+                    "isEncoded": false,
+                    "countInRaid": false,
+                    "conditionType": "HandoverItem"
                 }
             ],
             "Fail": []
         },
         
-        "acceptPlayerMessage": "6a30d0e9937ed3ced76c9488 acceptPlayerMessage",
-        "changeQuestMessageText": "6a30d0e9937ed3ced76c9488 changeQuestMessageText",
-        "completePlayerMessage": "6a30d0e9937ed3ced76c9488 completePlayerMessage",
-        "declinePlayerMessage": "6a30d0e9937ed3ced76c9488 declinePlayerMessage",
-        "description": "6a30d0e9937ed3ced76c9488 description",
-        "failMessageText": "6a30d0e9937ed3ced76c9488 failMessageText",
-        "name": "6a30d0e9937ed3ced76c9488 name",
-        "note": "6a30d0e9937ed3ced76c9488 note",
-        "startedMessageText": "6a30d0e9937ed3ced76c9488 startedMessageText",
-        "successMessageText": "6a30d0e9937ed3ced76c9488 successMessageText",
+        "acceptPlayerMessage": "6a3213a36f1d71ace3d81c45 acceptPlayerMessage",
+        "changeQuestMessageText": "6a3213a36f1d71ace3d81c45 changeQuestMessageText",
+        "completePlayerMessage": "6a3213a36f1d71ace3d81c45 completePlayerMessage",
+        "declinePlayerMessage": "6a3213a36f1d71ace3d81c45 declinePlayerMessage",
+        "description": "6a3213a36f1d71ace3d81c45 description",
+        "failMessageText": "6a3213a36f1d71ace3d81c45 failMessageText",
+        "name": "6a3213a36f1d71ace3d81c45 name",
+        "note": "6a3213a36f1d71ace3d81c45 note",
+        "startedMessageText": "6a3213a36f1d71ace3d81c45 startedMessageText",
+        "successMessageText": "6a3213a36f1d71ace3d81c45 successMessageText",
 
 
         "rankingModes": [],

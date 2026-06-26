@@ -70,24 +70,23 @@
             "AvailableForFinish": 
             [
                 {
-                    "id": "6a30c4ea3502b23da9cef163",
-                    "parentId": "",
-                    "dynamicLocale": true,
-                    "index": 0,
-                    "visibilityConditions": [],
+                    "conditionType": "HandoverItem",
+                    "dogtagLevel": 0,
+                    "dynamicLocale": false,
                     "globalQuestCounterId": "",
+                    "id": "6a30c668849b4f504e3d82fc",
+                    "index": 0,
+                    "isEncoded": false,
+                    "maxDurability": 100,
+                    "minDurability": 0,
+                    "onlyFoundInRaid": false,
+                    "parentId": "",
                     "target": 
                     [
-                        "6a30c668849b4f504e3d82fc"
+                        "575146b724597720a27126d5"
                     ],
                     "value": 1,
-                    "minDurability": 0,
-                    "maxDurability": 100,
-                    "dogtagLevel": 0,
-                    "onlyFoundInRaid": false,
-                    "isEncoded": false,
-                    "countInRaid": true,
-                    "conditionType": "HandoverItem"
+                    "visibilityConditions": []
                 }
             ],
             "Fail": []

@@ -1,8 +1,8 @@
 {
-    "6a30d0e9937ed3ced76c9488":
+    "6a3215fd0ba3cb99405055f8":
     {
-        "QuestName": "dialogue",
-        "_id": "6a30d0e9937ed3ced76c9488",
+        "QuestName": "Appropriation of property No. 1",
+        "_id": "6a3215fd0ba3cb99405055f8",
 
         "traderId": "6a2b2d6fce04bf77dbda0df2",
 
@@ -11,9 +11,9 @@
         "changeStandingCost": 0,
 
 
-        "image": "/files/quest/icon/6a30d0e9937ed3ced76c9488.png",
+        "image": "/files/quest/icon/6a3215fd0ba3cb99405055f8.png",
 
-        "location": "any",
+        "location": "56f40101d2720b2a4d8b45d6",
         "type": "Completion",
         "acceptanceAndFinishingSource": "eft",
         "progressSource": "eft",
@@ -74,49 +74,50 @@
                 "dispersion":  0,
                 "dynamicLocale":  false,
                 "globalQuestCounterId":  "",
-                "id":  "6a0b24653f221925eea854b1",
+                "id":  "6a348883a318c3e50b60ed8f",
                 "index":  0,
                 "parentId":  "",
                 "status":  [4],
-                "target":  "6a30a15f30aeb083bdea48be",
+                "target":  "6a3213a36f1d71ace3d81c45",
                 "visibilityConditions":  []
                 }
             ],
             "AvailableForFinish": 
             [
                 {
-                    "conditionType": "HandoverItem",
-                    "dogtagLevel": 0,
-                    "dynamicLocale": false,
-                    "globalQuestCounterId": "",
-                    "id": "6a30d34996aa468eb90f7ffd",
-                    "index": 0,
-                    "isEncoded": false,
-                    "maxDurability": 100,
-                    "minDurability": 0,
-                    "onlyFoundInRaid": false,
+                    "id": "6a321616cee7d44e9381ccb2",
                     "parentId": "",
+                    "dynamicLocale": false,
+                    "index": 0,
+                    "visibilityConditions": [],
+                    "globalQuestCounterId": "",
                     "target": 
                     [
-                        "65815f0e647e3d7246384e14"
+                        "5733279d245977289b77ec24"
                     ],
                     "value": 1,
-                    "visibilityConditions": []
+                    "minDurability": 0,
+                    "maxDurability": 100,
+                    "dogtagLevel": 0,
+                    "onlyFoundInRaid": false,
+                    "isEncoded": false,
+                    "countInRaid": false,
+                    "conditionType": "HandoverItem"
                 }
             ],
             "Fail": []
         },
         
-        "acceptPlayerMessage": "6a30d0e9937ed3ced76c9488 acceptPlayerMessage",
-        "changeQuestMessageText": "6a30d0e9937ed3ced76c9488 changeQuestMessageText",
-        "completePlayerMessage": "6a30d0e9937ed3ced76c9488 completePlayerMessage",
-        "declinePlayerMessage": "6a30d0e9937ed3ced76c9488 declinePlayerMessage",
-        "description": "6a30d0e9937ed3ced76c9488 description",
-        "failMessageText": "6a30d0e9937ed3ced76c9488 failMessageText",
-        "name": "6a30d0e9937ed3ced76c9488 name",
-        "note": "6a30d0e9937ed3ced76c9488 note",
-        "startedMessageText": "6a30d0e9937ed3ced76c9488 startedMessageText",
-        "successMessageText": "6a30d0e9937ed3ced76c9488 successMessageText",
+        "acceptPlayerMessage": "6a3215fd0ba3cb99405055f8 acceptPlayerMessage",
+        "changeQuestMessageText": "6a3215fd0ba3cb99405055f8 changeQuestMessageText",
+        "completePlayerMessage": "6a3215fd0ba3cb99405055f8 completePlayerMessage",
+        "declinePlayerMessage": "6a3215fd0ba3cb99405055f8 declinePlayerMessage",
+        "description": "6a3215fd0ba3cb99405055f8 description",
+        "failMessageText": "6a3215fd0ba3cb99405055f8 failMessageText",
+        "name": "6a3215fd0ba3cb99405055f8 name",
+        "note": "6a3215fd0ba3cb99405055f8 note",
+        "startedMessageText": "6a3215fd0ba3cb99405055f8 startedMessageText",
+        "successMessageText": "6a3215fd0ba3cb99405055f8 successMessageText",
 
 
         "rankingModes": [],
