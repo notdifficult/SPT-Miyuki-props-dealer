@@ -1,0 +1,101 @@
+﻿{
+    "6a30a15f30aeb083bdea48be": "------------------------------------------------------------------------------------------ 000",
+    "6a30a15f30aeb083bdea48be name": "The first acquaintance",
+
+    "6a30a15f30aeb083bdea48be description": "Hey you!\n\n[you didn't understand where the sound came from]\n\nWell, hey... I'm here!\n\n[you turned around and saw a cat]\n\nWhat are you standing there for, come closer, I don't bite.\n\n[you approached the cat]\n\nLet's get to know each other, my name is Miyuki, and that's all a stranger needs to know.\n\n(you were sniffed)\n\nDo you have anything interesting for me?",
+
+    "6a30a15f30aeb083bdea48be startedMessageText": "~The first acquaintance~ \nHey you!\n\n[you didn't understand where the sound came from]\n\nWell, hey... I'm here!\n\n[you turned around and saw a cat]\n\nWhat are you standing there for, come closer, I don't bite.\n\n[you approached the cat]\n\nLet's get to know each other, my name is Miyuki, and that's all a stranger needs to know.\n\n(you were sniffed)\n\nDo you have anything interesting for me?",
+    
+    "6a30c668849b4f504e3d82fc": "Pass to Miyuki 'A package of milk'",
+
+    "6a30a15f30aeb083bdea48be successMessageText": "Oh, is this for me? Look, I think we'll get along well!",
+
+
+    "6a30d0e9937ed3ced76c9488": "------------------------------------------------------------------------------------------ 001",
+    "6a30d0e9937ed3ced76c9488 name": "Dialogue",
+
+    "6a30d0e9937ed3ced76c9488 description": "Well, then listen...\n\n(drinks milk)\n\nI live here, and I have plans to set up a great base.\nI could use people like you.\n\n(drinks milk)\n\nAre you wondering why I'm talking? Let me explain.\nI'm Project C416, a lab escapee, and don't worry, I won't eat you, but I would eat some meat.\n\n(looks into your eyes)",
+
+    "6a30d0e9937ed3ced76c9488 startedMessageText": "~Dialogue~ \n\nWell, then listen...\n\n(drinks milk)\n\nI live here, and I have plans to set up a great base.\nI could use people like you.\n\n(drinks milk)\n\nAre you wondering why I'm talking? Let me explain.\nI'm Project C416, a lab escapee, and don't worry, I won't eat you, but I would eat some meat.\n\n(looks into your eyes)",
+    
+    "6a30d34996aa468eb90f7ffd": "Give Miyuki a 'Dried Meat Package'",
+
+    "6a30d0e9937ed3ced76c9488 successMessageText": "You're a good person, so let's get down to business.",
+
+
+    "6a31f49ebdc4479f88db51d7": "------------------------------------------------------------------------------------------ 002",
+    "6a31f49ebdc4479f88db51d7 name": "The first task",
+
+    "6a31f49ebdc4479f88db51d7 description": "I like this place, but I'm constantly bothered.\n\n(sighs)\n\nPeople keep coming in, littering, and smoking.\nI have to hide, and what can a little cat do...\nCan you help me with this?\n\n(looks at you pitifully)\n\nIt would be a good start for future cooperation.",
+
+    "6a31f49ebdc4479f88db51d7 startedMessageText": "~The first task~ \n\nI like this place, but I'm constantly bothered.\n\n(sighs)\n\nPeople keep coming in, littering, and smoking.\nI have to hide, and what can a little cat do...\nCan you help me with this?\n\n(looks at you pitifully)\n\nIt would be a good start for future cooperation.",
+    
+    "6a3e6d30a048dcfd7a304a75": "Save Miyuki by 'Kill Savage' ",
+
+    "6a31f49ebdc4479f88db51d7 successMessageText": "Thanks, it's really calmer here. Once you've cleaned up, come in. I have another conversation for you, building a joint base is cool, but there are some things...",
+
+
+    "6a3213a36f1d71ace3d81c45": "------------------------------------------------------------------------------------------ 003",
+    "6a3213a36f1d71ace3d81c45 name": "Warehouse supply №1",
+
+    "6a3213a36f1d71ace3d81c45 description": "Oh, you're back, you look good.\n\n(you're being sniffed)\n\nListen, I have another request, I don't have any money, and a smart cat needs money, right?\n\n(She jumps on the couch and sits down)\n\nI had a dream of becoming a trader, maybe it was inherited from my parents, but still.\n\n(She scratches her neck with her back paw)\n\nIn short, bring a canister of gasoline tomorrow, and I'll tell you my plan.",
+
+    "6a3213a36f1d71ace3d81c45 startedMessageText": "~Warehouse supply №1~ \n\nOh, you're back, you look good.\n\n(you're being sniffed)\n\nListen, I have another request, I don't have any money, and a smart cat needs money, right?\n\n(She jumps on the couch and sits down)\n\nI had a dream of becoming a trader, maybe it was inherited from my parents, but still.\n\n(She scratches her neck with her back paw)\n\nIn short, bring a canister of gasoline tomorrow, and I'll tell you my plan.",
+    
+    "6a3213b5428394d56e78b672": "Give Miyuki a Can of Gasoline",
+
+    "6a3213a36f1d71ace3d81c45 successMessageText": "Great, I don't have anything to pay you with, but when we get up, I'll definitely pay you back, so follow me...",
+
+
+    "6a3215fd0ba3cb99405055f8": "------------------------------------------------------------------------------------------ 004",
+    "6a3215fd0ba3cb99405055f8 name": "Appropriation of property №1",
+
+    "6a3215fd0ba3cb99405055f8 description": "Look at this beauty, no one needs it, it just needs some affection and a good home.\n\n(he jumps into the back seat and sniffs it)\n\nSo, I managed to fill it with gasoline, but there's a problem...\n\n(he jumps out of the car and approaches the front of the vehicle)\n\nOpen the hood and take a look for yourself\n\n[you open the hood]\n\nSee? The battery's missing, someone from those wild animals must have stolen it! Will you figure it out?",
+
+    "6a3215fd0ba3cb99405055f8 startedMessageText": "~Appropriation of property №1~ \n\nLook at this beauty, no one needs it, it just needs some affection and a good home.\n\n(he jumps into the back seat and sniffs it)\n\nSo, I managed to fill it with gasoline, but there's a problem...\n\n(he jumps out of the car and approaches the front of the vehicle)\n\nOpen the hood and take a look for yourself\n\n[you open the hood]\n\nSee? The battery's missing, someone from those wild animals must have stolen it! Will you figure it out?",
+    
+    "6a321616cee7d44e9381ccb2": "Give Miyuki the Car Battery",
+
+    "6a3215fd0ba3cb99405055f8 successMessageText": "Hurray! Now we're taking it back to the base, and tomorrow we're selling it. We're going to start delivering cars to Tarkow! Ha-ha-ha!",
+
+        
+    "6a3219c3f6accaab1e461d31": "------------------------------------------------------------------------------------------ 005",
+    "6a3219c3f6accaab1e461d31 name": "Warehouse supply №2",
+
+    "6a3219c3f6accaab1e461d31 description": "So, now... While we were driving here, I saw another patient.\n\n( jumps out of the car, walks a little straight)\n\nYou probably wondered what the genes and mixing are about?\n\n(turns his face to you and sits on the floor)\n\nCome with a canister and I'll tell you more about myself.",
+
+    "6a3219c3f6accaab1e461d31 startedMessageText": "~Warehouse supply №1~ \n\nSo, now... While we were driving here, I saw another patient.\n\n( jumps out of the car, walks a little straight)\n\nYou probably wondered what the genes and mixing are about?\n\n(turns his face to you and sits on the floor)\n\nCome with a canister and I'll tell you more about myself.",
+    
+    "6a321a204443aced8d3b8c95": "Give Miyuki a Can of Gasoline",
+
+    "6a3219c3f6accaab1e461d31 successMessageText": "Спасибо, как и обещала расскажу немного о себе. Ты уже слышал, что я лабораторная разработка С416? Я говорила ранее. С - это CAT, а 416 номер попытки, я 416 удачная попытка, были ли после меня, я не знаю, но те, что были до меня, еще в лабе, жаль их, их должны списать и уничтожить... А насчет генов, я смесь кошки и случайного пойманного дикого, по этому, я говорю с тобой сейчас... Ладно пошли, нас ждут дела.",
+
+
+    "6a32181cc026373af1c2c653": "------------------------------------------------------------------------------------------ 006",
+    "6a32181cc026373af1c2c653 name": "Appropriation of property №2",
+
+    "6a32181cc026373af1c2c653 description": "А вот очередной пациент! Нравится?\n\n(обнюхивает мотор)\n\nОх беда... Тут свечи сгнили походу. Попробуй покрути мотор.\n\n[вы сели за руль и попытались запустить двигатель]\n\nВот о чем я и говорю, не работает. Разберешься?\n\n(виляет хвостом)",
+
+    "6a32181cc026373af1c2c653 startedMessageText": "~Appropriation of property №2~ \n\nА вот очередной пациент! Нравится?\n\n(обнюхивает мотор)\n\nОх беда... Тут свечи сгнили походу. Попробуй покрути мотор.\n\n[вы сели за руль и попытались запустить двигатель]\n\nВот о чем я и говорю, не работает. Разберешься?\n\n(виляет хвостом)",
+    
+    "6a32183729b6fdd652fe121a": "Give Miyuki the 'Car Spark Plugs'",
+
+    "6a32181cc026373af1c2c653 successMessageText": "It works like a clock. Let's get her back to the base, and I'll take it from here. Come back tomorrow, I have another case for you.",
+
+
+    "6a32ad93052fe6a00e2eec26": "------------------------------------------------------------------------------------------ 007",
+    "6a32ad93052fe6a00e2eec26 name": "Service and maintenance",
+
+    "6a32ad93052fe6a00e2eec26 description": "Эй!\n\n(подбегает к вам)\n\nСмотри, уже целый авторынок получился.\n\n(поворачивает голову назад, потом снова к вам)\n\nТолько вот инструмента не хватает, сможешь достать его где-нибудь?\n\n(виляет хвостом)",
+
+    "6a32ad93052fe6a00e2eec26 startedMessageText": "~Service and maintenance~ \n\nЭй!\n\n(подбегает к вам)\n\nСмотри, уже целый авторынок получился.\n\n(поворачивает голову назад, потом снова к вам)\n\nТолько вот инструмента не хватает, сможешь достать его где-нибудь?\n\n(виляет хвостом)",
+    
+    "6a32bf7941109010f865d0da": "Give Miyuki a wrench",
+    "6a32bf7a0a5d5748bf87fc31": "Pass the 'flat screwdriver' to Miyuki",
+    "6a32bf7ab3c5d0ade41da2c8": "Give Miyuki a multi-tool",
+    "6a32bf7bd92dd27afb4ccd7c": "Give Miyuki the 'repair kit'",
+    "6a32bf7cd2ed14720756e6d0": "Pass the 'scotch' to Miyuki",
+    "6a32ad822666d94bfb84f71b": "Pass the 'duct tape' to Miyuki",
+
+    "6a32ad93052fe6a00e2eec26 successMessageText": "Wow, what a great set of all sorts, now we're definitely going to get rich! Here, I managed to sell some junk. Received money: 125,000 rubles. Come by tomorrow, I'll need some help with something."
+}
