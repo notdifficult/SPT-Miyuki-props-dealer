@@ -2,11 +2,20 @@
 - add CustomLocales RU/EN translate
 - add test chatbot (not functional)
 - add CustomQuests
-- add Quest Q000 acquaintance
-- add Quest Q001 dialogue
+- add 8 Miyuki Story Quest 
+- add Quests img
+- remove insurance (not work, mb later)
+- loyaltyLevels adapted for quests
+
+what will happen in 2.0.2?
+- translation into Russian and English all quest
+- add +8 quest (first chapter will end)
+- add CustomQuestsZone
+- add new props
 - add Quests img
 
 `I'm currently busy writing new quests based on Miyuki's story, but I'm also looking forward to hearing your suggestions for adding new items in the comments.`
+`Unfortunately, I don't have much time due to my work, and I've completed 8 out of the 15 quests in the first chapter. Additionally, there is no English translation available, but I will include it in version 2.0.2`
 
 ---
 
