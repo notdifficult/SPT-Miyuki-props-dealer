@@ -20,7 +20,7 @@
 
     "insurance": 
     {
-        "availability": true,
+        "availability": false,
         "min_payment": 4000,
         "min_return_hour": 1,
         "max_return_hour": 2,
@@ -52,9 +52,9 @@
         "exchange_price_coef": 0,
         "heal_price_coef": 0,
         "insurance_price_coef": "11",
-        "minLevel": 20,
-        "minSalesSum": 750000,
-        "minStanding": 0.15,
+        "minLevel": 1,
+        "minSalesSum": 0,
+        "minStanding": 1,
         "repair_price_coef": 180
       },
       {
@@ -62,9 +62,9 @@
         "exchange_price_coef": 0,
         "heal_price_coef": 0,
         "insurance_price_coef": "12",
-        "minLevel": 30,
-        "minSalesSum": 1600000,
-        "minStanding": 0.3,
+        "minLevel": 1,
+        "minSalesSum": 0,
+        "minStanding": 2,
         "repair_price_coef": 185
       },
       {
@@ -72,9 +72,9 @@
         "exchange_price_coef": 0,
         "heal_price_coef": 0,
         "insurance_price_coef": "13",
-        "minLevel": 40,
-        "minSalesSum": 2500000,
-        "minStanding": 0.6,
+        "minLevel": 1,
+        "minSalesSum": 0,
+        "minStanding": 3,
         "repair_price_coef": 195
       }
     ],
@@ -102,7 +102,7 @@
         "excluded_category": [],
         "currency": "5449016a4bdc2d6f028b456f",
         "currency_coefficient": 8,
-        "price_rate": 19.5
+        "price_rate": 18.5
     },
 
 
