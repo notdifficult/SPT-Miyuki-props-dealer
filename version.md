@@ -1,3 +1,10 @@
+2.0.2
+
+- fix quest №7
+
+
+---
+
 2.0.1
 - add CustomLocales RU/EN translate
 - add test chatbot (not functional)
