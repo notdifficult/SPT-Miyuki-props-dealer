@@ -1,7 +1,8 @@
 2.0.2
 
 - fix quest №7
-
+- add Quest Assort - Items unlocked after quest completion
+- add CustomQuestZones
 
 ---
 
