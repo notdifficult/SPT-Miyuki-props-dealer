@@ -69,8 +69,9 @@ namespace MiyukiPropsDealer
             
             
             //string questZonesDirectory = Path.Combine("db", "QuestZones");                                            // QuestZones
-            //await wtt.CustomQuestZoneService.CreateCustomQuestZones(assembly);                                        // QuestZones
+            await wtt.CustomQuestZoneService.CreateCustomQuestZones(assembly);                                          // QuestZones
             //await wtt.CustomQuestZoneService.CreateCustomQuestZones(assembly, questZonesDirectory);                   // QuestZones
+
 
             await Task.CompletedTask;
         }

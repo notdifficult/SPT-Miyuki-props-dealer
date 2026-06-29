@@ -32,7 +32,7 @@ public record ModMetadata : AbstractModMetadata
     public override string Name { get; init; } = "MiyukiPropsDealer";
     public override string Author { get; init; } = "NoTDifficult";
     public override List<string>? Contributors { get; init; } = [];
-    public override SemanticVersioning.Version Version { get; init; } = new("2.0.1");
+    public override SemanticVersioning.Version Version { get; init; } = new("2.0.2");
     public override Range SptVersion { get; init; } = new("~4.0.13");
     public override List<string>? Incompatibilities { get; init; } = [];
     public override Dictionary<string, Range>? ModDependencies { get; init; } = new() { { "com.wtt.commonlib", new Range("~2.0") } };
