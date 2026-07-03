@@ -2,7 +2,9 @@
 
 - fix quest №7
 - add Quest Assort - Items unlocked after quest completion
+- add 2 Quest img
 - add CustomQuestZones
+- add 2 Quest 
 
 ---
 
