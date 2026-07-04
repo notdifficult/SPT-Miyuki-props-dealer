@@ -1,101 +1,117 @@
 ﻿{
-    "6a30a15f30aeb083bdea48be": "------------------------------------------------------------------------------------------ 000",
+
     "6a30a15f30aeb083bdea48be name": "The first acquaintance",
-
     "6a30a15f30aeb083bdea48be description": "Hey you!\n\n[you didn't understand where the sound came from]\n\nWell, hey... I'm here!\n\n[you turned around and saw a cat]\n\nWhat are you standing there for, come closer, I don't bite.\n\n[you approached the cat]\n\nLet's get to know each other, my name is Miyuki, and that's all a stranger needs to know.\n\n(you were sniffed)\n\nDo you have anything interesting for me?",
-
     "6a30a15f30aeb083bdea48be startedMessageText": "~The first acquaintance~ \nHey you!\n\n[you didn't understand where the sound came from]\n\nWell, hey... I'm here!\n\n[you turned around and saw a cat]\n\nWhat are you standing there for, come closer, I don't bite.\n\n[you approached the cat]\n\nLet's get to know each other, my name is Miyuki, and that's all a stranger needs to know.\n\n(you were sniffed)\n\nDo you have anything interesting for me?",
-    
-    "6a30c668849b4f504e3d82fc": "Pass to Miyuki 'A package of milk'",
+    "6a30c668849b4f504e3d82fc": "Pass to Miyuki 'A package of milk' ",
+    "6a30a15f30aeb083bdea48be successMessageText": "Oh, is this for me? Look, I think we'll get along great!",
 
-    "6a30a15f30aeb083bdea48be successMessageText": "Oh, is this for me? Look, I think we'll get along well!",
-
-
-    "6a30d0e9937ed3ced76c9488": "------------------------------------------------------------------------------------------ 001",
     "6a30d0e9937ed3ced76c9488 name": "Dialogue",
+    "6a30d0e9937ed3ced76c9488 description": "Well, then listen...\n\n(drinks milk)\n\nI live here, and I have plans to set up a great base.\nI could use people like you.\n\n(drinks milk)\n\nAre you wondering why I'm talking? Let me put it simply.\nI'm Project C416, a lab escapee, and don't worry, I won't eat you, but I would eat some meat.\n\n(looks into your eyes)",
+    "6a30d0e9937ed3ced76c9488 startedMessageText": "~Dialogue~ \n\nWell, then listen...\n\n(drinks milk)\n\nI live here, and I have plans to set up a great base.\nI could use people like you.\n\n(drinks milk)\n\nAre you wondering why I'm talking? Let me put it simply.\nI'm Project C416, a lab escapee, and don't worry, I won't eat you, but I would eat some meat.\n\n(looks into your eyes)",
+    "6a30d34996aa468eb90f7ffd": "Pass to Miyuki a 'Dried Meat Package' ",
+    "6a30d0e9937ed3ced76c9488 successMessageText": "You're a good person, so let's get straight to the point.",
 
-    "6a30d0e9937ed3ced76c9488 description": "Well, then listen...\n\n(drinks milk)\n\nI live here, and I have plans to set up a great base.\nI could use people like you.\n\n(drinks milk)\n\nAre you wondering why I'm talking? Let me explain.\nI'm Project C416, a lab escapee, and don't worry, I won't eat you, but I would eat some meat.\n\n(looks into your eyes)",
-
-    "6a30d0e9937ed3ced76c9488 startedMessageText": "~Dialogue~ \n\nWell, then listen...\n\n(drinks milk)\n\nI live here, and I have plans to set up a great base.\nI could use people like you.\n\n(drinks milk)\n\nAre you wondering why I'm talking? Let me explain.\nI'm Project C416, a lab escapee, and don't worry, I won't eat you, but I would eat some meat.\n\n(looks into your eyes)",
-    
-    "6a30d34996aa468eb90f7ffd": "Give Miyuki a 'Dried Meat Package'",
-
-    "6a30d0e9937ed3ced76c9488 successMessageText": "You're a good person, so let's get down to business.",
-
-
-    "6a31f49ebdc4479f88db51d7": "------------------------------------------------------------------------------------------ 002",
     "6a31f49ebdc4479f88db51d7 name": "The first task",
+    "6a31f49ebdc4479f88db51d7 description": "I like this place, but I'm constantly bothered.\n\n(sighs)\n\nPeople keep coming in, littering, and smoking.\nI have to hide, and what can a little cat do...\nCan you help me with this?\n\n(looks at you pitifully)\n\nIt would be a good start for our future cooperation.",
+    "6a31f49ebdc4479f88db51d7 startedMessageText": "~The first task~ \n\nI like this place, but I'm constantly bothered.\n\n(sighs)\n\nPeople keep coming in, littering, and smoking.\nI have to hide, and what can a little cat do...\nCan you help me with this?\n\n(looks at you pitifully)\n\nIt would be a good start for our future cooperation.",
+    "6a3e6d30a048dcfd7a304a75": "Save Miyuki by 'Destroying the scav' ",
+    "6a31f49ebdc4479f88db51d7 successMessageText": "Thank you, it's really calmer here. Once you've cleaned up, come in. I have another conversation for you, building a joint base is cool, but there are some things...",
 
-    "6a31f49ebdc4479f88db51d7 description": "I like this place, but I'm constantly bothered.\n\n(sighs)\n\nPeople keep coming in, littering, and smoking.\nI have to hide, and what can a little cat do...\nCan you help me with this?\n\n(looks at you pitifully)\n\nIt would be a good start for future cooperation.",
-
-    "6a31f49ebdc4479f88db51d7 startedMessageText": "~The first task~ \n\nI like this place, but I'm constantly bothered.\n\n(sighs)\n\nPeople keep coming in, littering, and smoking.\nI have to hide, and what can a little cat do...\nCan you help me with this?\n\n(looks at you pitifully)\n\nIt would be a good start for future cooperation.",
-    
-    "6a3e6d30a048dcfd7a304a75": "Save Miyuki by 'Kill Savage' ",
-
-    "6a31f49ebdc4479f88db51d7 successMessageText": "Thanks, it's really calmer here. Once you've cleaned up, come in. I have another conversation for you, building a joint base is cool, but there are some things...",
-
-
-    "6a3213a36f1d71ace3d81c45": "------------------------------------------------------------------------------------------ 003",
-    "6a3213a36f1d71ace3d81c45 name": "Warehouse supply №1",
-
-    "6a3213a36f1d71ace3d81c45 description": "Oh, you're back, you look good.\n\n(you're being sniffed)\n\nListen, I have another request, I don't have any money, and a smart cat needs money, right?\n\n(She jumps on the couch and sits down)\n\nI had a dream of becoming a trader, maybe it was inherited from my parents, but still.\n\n(She scratches her neck with her back paw)\n\nIn short, bring a canister of gasoline tomorrow, and I'll tell you my plan.",
-
-    "6a3213a36f1d71ace3d81c45 startedMessageText": "~Warehouse supply №1~ \n\nOh, you're back, you look good.\n\n(you're being sniffed)\n\nListen, I have another request, I don't have any money, and a smart cat needs money, right?\n\n(She jumps on the couch and sits down)\n\nI had a dream of becoming a trader, maybe it was inherited from my parents, but still.\n\n(She scratches her neck with her back paw)\n\nIn short, bring a canister of gasoline tomorrow, and I'll tell you my plan.",
-    
-    "6a3213b5428394d56e78b672": "Give Miyuki a Can of Gasoline",
-
+    "6a3213a36f1d71ace3d81c45 name": "Supply of warehouse No. 1",
+    "6a3213a36f1d71ace3d81c45 description": "Oh, you're back, you look good.\n\n(you've been sniffed)\n\nListen, I have another request, I don't have any money, but a smart cat needs it, right?\n\n(She jumped onto the couch and sat down)\n\nI had a dream of doing business, maybe it came with my genes when I was mixed, but still.\n\n(Scratched her neck with her back paw)\n\nAnyway, bring a canister of gasoline tomorrow, and I'll tell you my plan.",
+    "6a3213a36f1d71ace3d81c45 startedMessageText": "~Supply of warehouse No. 1~ \n\nOh, you're back, you look good.\n\n(you've been sniffed)\n\nListen, I have another request, I don't have any money, but a smart cat needs it, right?\n\n(She jumped onto the couch and sat down)\n\nI had a dream of doing business, maybe it came with my genes when I was mixed, but still.\n\n(Scratched her neck with her back paw)\n\nAnyway, bring a canister of gasoline tomorrow, and I'll tell you my plan.", 
+    "6a3213b5428394d56e78b672": "Pass to Miyuki a 'Gasoline Canister' ",
     "6a3213a36f1d71ace3d81c45 successMessageText": "Great, I don't have anything to pay you with, but when we get up, I'll definitely pay you back, so follow me...",
 
-
-    "6a3215fd0ba3cb99405055f8": "------------------------------------------------------------------------------------------ 004",
-    "6a3215fd0ba3cb99405055f8 name": "Appropriation of property №1",
-
-    "6a3215fd0ba3cb99405055f8 description": "Look at this beauty, no one needs it, it just needs some affection and a good home.\n\n(he jumps into the back seat and sniffs it)\n\nSo, I managed to fill it with gasoline, but there's a problem...\n\n(he jumps out of the car and approaches the front of the vehicle)\n\nOpen the hood and take a look for yourself\n\n[you open the hood]\n\nSee? The battery's missing, someone from those wild animals must have stolen it! Will you figure it out?",
-
-    "6a3215fd0ba3cb99405055f8 startedMessageText": "~Appropriation of property №1~ \n\nLook at this beauty, no one needs it, it just needs some affection and a good home.\n\n(he jumps into the back seat and sniffs it)\n\nSo, I managed to fill it with gasoline, but there's a problem...\n\n(he jumps out of the car and approaches the front of the vehicle)\n\nOpen the hood and take a look for yourself\n\n[you open the hood]\n\nSee? The battery's missing, someone from those wild animals must have stolen it! Will you figure it out?",
+    "6a3215fd0ba3cb99405055f8 name": "Appropriation of property No. 1",
+    "6a3215fd0ba3cb99405055f8 description": "Look at this beauty, no one needs it, it just needs some affection and a good home.\n\n(he jumps into the back seat and sniffs it)\n\nSo, I managed to fill it with gasoline, but there's a problem...\n\n(she jumps out of the car and approaches the front of the vehicle)\n\nOpen the hood and take a look for yourself\n\n[you open the hood]\n\nSee? The battery's missing, someone from those wild scav must have stolen it! Will you figure it out?",
+    "6a3215fd0ba3cb99405055f8 startedMessageText": "~Appropriation of property No. 1~ \n\nLook at this beauty, no one needs it, it just needs some affection and a good home.\n\n(he jumps into the back seat and sniffs it)\n\nSo, I managed to fill it with gasoline, but there's a problem...\n\n(she jumps out of the car and approaches the front of the vehicle)\n\nOpen the hood and take a look for yourself\n\n[you open the hood]\n\nSee? The battery's missing, someone from those wild scav must have stolen it! Will you figure it out?",
+    "6a321616cee7d44e9381ccb2": "Pass to Miyuki 'Car Battery' ",
+    "6a3215fd0ba3cb99405055f8 successMessageText": "Hurray! Now we're taking it back to the base, and tomorrow we're selling it. We're going to start delivering cars to Tarkov! Ha-ha-ha!",
     
-    "6a321616cee7d44e9381ccb2": "Give Miyuki the Car Battery",
+    "6a3219c3f6accaab1e461d31 name": "Supply of warehouse No. 2",
+    "6a3219c3f6accaab1e461d31 description": "So, now... While we were driving here, I saw another patient.\n\n(she jumps out of the car and walks a little straight)\n\nYou're probably wondering about the genes and the mixing.\n\n(she turns face towards you and sits on the floor)\n\nCome with a canister, and I'll tell you more about myself.",
+    "6a3219c3f6accaab1e461d31 startedMessageText": "~Supply of warehouse No. 2~ \n\nSo, now... While we were driving here, I saw another patient.\n\n(she jumps out of the car and walks a little straight)\n\nYou're probably wondering about the genes and the mixing.\n\n(she turns face towards you and sits on the floor)\n\nCome with a canister, and I'll tell you more about myself.",
+    "6a321a204443aced8d3b8c95": "Pass to Miyuki a 'Gasoline Canister' ",
+    "6a3219c3f6accaab1e461d31 successMessageText": "Thank you, as I promised, I'll tell you a little about myself. Have you heard that I'm a laboratory project called C416? I mentioned it earlier. C stands for CAT, and 416 is the number of my attempt. I'm the 416th successful attempt, and I don't know if there were any others after me. However, the ones before me are still in the lab, and I feel sorry for them. They're supposed to be discarded and destroyed. As for my genes, I'm a mix of a cat and random scav, which is why I'm talking to you right now. Okay, let's go, we have things to do.",
 
-    "6a3215fd0ba3cb99405055f8 successMessageText": "Hurray! Now we're taking it back to the base, and tomorrow we're selling it. We're going to start delivering cars to Tarkow! Ha-ha-ha!",
+    "6a32181cc026373af1c2c653 name": "Appropriation of property No. 2",
+    "6a32181cc026373af1c2c653 description": "And here's another patient! Do you like it?\n\n(sniffs the engine)\n\nOh no... The spark plugs must be rotten. Try turning the engine.\n\n[You get behind the wheel and try to start the engine]\n\nThat's what I'm talking about, it doesn't work. Can you fix it?\n\n(wagging its tail)",
+    "6a32181cc026373af1c2c653 startedMessageText": "~Appropriation of property No. 2~ \n\nAnd here's another patient! Do you like it?\n\n(sniffs the engine)\n\nOh no... The spark plugs must be rotten. Try turning the engine.\n\n[You get behind the wheel and try to start the engine]\n\nThat's what I'm talking about, it doesn't work. Can you fix it?\n\n(wagging its tail)",
+    "6a32183729b6fdd652fe121a": "Pass to Miyuki the 'Car Spark Plugs'",
+    "6a32181cc026373af1c2c653 successMessageText": "It works like a clock. Let's get her back to the base, and I'll take it from there. Come back tomorrow, I have another case for you.",
 
-        
-    "6a3219c3f6accaab1e461d31": "------------------------------------------------------------------------------------------ 005",
-    "6a3219c3f6accaab1e461d31 name": "Warehouse supply №2",
-
-    "6a3219c3f6accaab1e461d31 description": "So, now... While we were driving here, I saw another patient.\n\n( jumps out of the car, walks a little straight)\n\nYou probably wondered what the genes and mixing are about?\n\n(turns his face to you and sits on the floor)\n\nCome with a canister and I'll tell you more about myself.",
-
-    "6a3219c3f6accaab1e461d31 startedMessageText": "~Warehouse supply №1~ \n\nSo, now... While we were driving here, I saw another patient.\n\n( jumps out of the car, walks a little straight)\n\nYou probably wondered what the genes and mixing are about?\n\n(turns his face to you and sits on the floor)\n\nCome with a canister and I'll tell you more about myself.",
-    
-    "6a321a204443aced8d3b8c95": "Give Miyuki a Can of Gasoline",
-
-    "6a3219c3f6accaab1e461d31 successMessageText": "Спасибо, как и обещала расскажу немного о себе. Ты уже слышал, что я лабораторная разработка С416? Я говорила ранее. С - это CAT, а 416 номер попытки, я 416 удачная попытка, были ли после меня, я не знаю, но те, что были до меня, еще в лабе, жаль их, их должны списать и уничтожить... А насчет генов, я смесь кошки и случайного пойманного дикого, по этому, я говорю с тобой сейчас... Ладно пошли, нас ждут дела.",
-
-
-    "6a32181cc026373af1c2c653": "------------------------------------------------------------------------------------------ 006",
-    "6a32181cc026373af1c2c653 name": "Appropriation of property №2",
-
-    "6a32181cc026373af1c2c653 description": "А вот очередной пациент! Нравится?\n\n(обнюхивает мотор)\n\nОх беда... Тут свечи сгнили походу. Попробуй покрути мотор.\n\n[вы сели за руль и попытались запустить двигатель]\n\nВот о чем я и говорю, не работает. Разберешься?\n\n(виляет хвостом)",
-
-    "6a32181cc026373af1c2c653 startedMessageText": "~Appropriation of property №2~ \n\nА вот очередной пациент! Нравится?\n\n(обнюхивает мотор)\n\nОх беда... Тут свечи сгнили походу. Попробуй покрути мотор.\n\n[вы сели за руль и попытались запустить двигатель]\n\nВот о чем я и говорю, не работает. Разберешься?\n\n(виляет хвостом)",
-    
-    "6a32183729b6fdd652fe121a": "Give Miyuki the 'Car Spark Plugs'",
-
-    "6a32181cc026373af1c2c653 successMessageText": "It works like a clock. Let's get her back to the base, and I'll take it from here. Come back tomorrow, I have another case for you.",
-
-
-    "6a32ad93052fe6a00e2eec26": "------------------------------------------------------------------------------------------ 007",
     "6a32ad93052fe6a00e2eec26 name": "Service and maintenance",
+    "6a32ad93052fe6a00e2eec26 description": "Hey!\n\n(runs up to you)\n\nLook, it's already a whole car market.\n\n(turns his head back, then back to you)\n\nBut we don't have enough tools, can you get some?\n\n(wagging his tail)",
+    "6a32ad93052fe6a00e2eec26 startedMessageText": "~Service and maintenance~ \n\nHey!\n\n(runs up to you)\n\nLook, it's already a whole car market.\n\n(turns his head back, then back to you)\n\nBut we don't have enough tools, can you get some?\n\n(wagging his tail)",
+    "6a32bf7941109010f865d0da": "Pass to Miyuki 'wrench'",
+    "6a32bf7a0a5d5748bf87fc31": "Pass to Miyuki 'flat screwdriver'",
+    "6a32bf7ab3c5d0ade41da2c8": "Pass to Miyuki 'multitool'",
+    "6a32bf7bd92dd27afb4ccd7c": "Pass to Miyuki toolbox'",
+    "6a32bf7cd2ed14720756e6d0": "Pass to Miyuki 'scotch tape' ",
+    "6a32ad822666d94bfb84f71b": "Pass to Miyuki 'electrical tape' ",
+    "6a32ad93052fe6a00e2eec26 successMessageText": "Wow, what a great collection, now we're definitely going to get rich! Here, I managed to sell some junk.   'Received: money'   Come by tomorrow, I'll need some help with something.",
 
-    "6a32ad93052fe6a00e2eec26 description": "Эй!\n\n(подбегает к вам)\n\nСмотри, уже целый авторынок получился.\n\n(поворачивает голову назад, потом снова к вам)\n\nТолько вот инструмента не хватает, сможешь достать его где-нибудь?\n\n(виляет хвостом)",
+    "6a32ada233a3bdb64c54ac12 name": "Truck inspection",
+    "6a32ada233a3bdb64c54ac12 description": "Hey, you're back\n\n(you're being sniffed)\n\nI hope you're in a good mood and full of energy.\n\n(sits in front of you)\n\nYou might have seen a truck in the center of the base.\n\n( scratches behind her ear with her back paw)\n\nIn general... look what's with her, there are most likely wild wiring damaged, and I'll rest in the meantime.\n\n(lies down on the couch and closes her eyes)",
+    "6a32ada233a3bdb64c54ac12 startedMessageText": "~Truck inspection~ \n\nHey, you're back\n\n(you're being sniffed)\n\nI hope you're in a good mood and full of energy.\n\n(sits in front of you)\n\nYou might have seen a truck in the center of the base.\n\n( scratches behind her ear with her back paw)\n\nIn general... look what's with her, there are most likely wild wiring damaged, and I'll rest in the meantime.\n\n(lies down on the couch and closes her eyes)",
+    "6a349db1f84aa87c808d516d": "Inspect the truck at the Miyuki base",
+    "6a32ada233a3bdb64c54ac12 successMessageText": "Did damage the ignition key wiring? Here, take this duct tape 'Item received: duct tape'",
 
-    "6a32ad93052fe6a00e2eec26 startedMessageText": "~Service and maintenance~ \n\nЭй!\n\n(подбегает к вам)\n\nСмотри, уже целый авторынок получился.\n\n(поворачивает голову назад, потом снова к вам)\n\nТолько вот инструмента не хватает, сможешь достать его где-нибудь?\n\n(виляет хвостом)",
-    
-    "6a32bf7941109010f865d0da": "Give Miyuki a wrench",
-    "6a32bf7a0a5d5748bf87fc31": "Pass the 'flat screwdriver' to Miyuki",
-    "6a32bf7ab3c5d0ade41da2c8": "Give Miyuki a multi-tool",
-    "6a32bf7bd92dd27afb4ccd7c": "Give Miyuki the 'repair kit'",
-    "6a32bf7cd2ed14720756e6d0": "Pass the 'scotch' to Miyuki",
-    "6a32ad822666d94bfb84f71b": "Pass the 'duct tape' to Miyuki",
+    "6a32adc16f7f62269975267e name": "Truck repair",
+    "6a32adc16f7f62269975267e description": "Look, maybe something else broke there, then come.\n\n(lies down on the floor, angry)\n\n Tell me later how the progress and don't forget to take the tape with you! \n\n(angrily mutters)\n\n ... Stupid scavs i hate hes...",
+    "6a32adc16f7f62269975267e startedMessageText": "~Truck repair~ \n\nLook, maybe something else broke there, then come.\n\n(lies down on the floor, angry)\n\n Tell me later how the progress and don't forget to take the tape with you! \n\n(angrily mutters)\n\n ... Stupid scavs i hate hes...",
+    "6a32c324e4a5d9e240080867": "Re-examine the truck at the Miyuki base",
+    "6a32c354b790f2ff545fa18f": "Rewind the wiring with tape",
+    "6a32adc16f7f62269975267e successMessageText": "You're a real master of your craft! Good job, it should be well paid, take... 'Received: money' Come back tomorrow, I have another job for you.",
 
-    "6a32ad93052fe6a00e2eec26 successMessageText": "Wow, what a great set of all sorts, now we're definitely going to get rich! Here, I managed to sell some junk. Received money: 125,000 rubles. Come by tomorrow, I'll need some help with something."
+    "6a32adcedaf5d75358b38d33 name": "Logistics preparation",
+    "6a32adcedaf5d75358b38d33 description": "Hi, follow me...\n\n(takes you to the office)\n\nThanks to your golden hands, we now have a truck that will help us deliver our goods in the future.\n\n( jumps on the table)\n\nSee those old comps? There's a lack of parts\n\n(deep sigh)\n\nSee what you can do?",
+    "6a32adcedaf5d75358b38d33 startedMessageText": "~Logistics preparation~ \n\nHi, follow me...\n\n(takes you to the office)\n\nThanks to your golden hands, we now have a truck that will help us deliver our goods in the future.\n\n( jumps on the table)\n\nSee those old comps? There's a lack of parts\n\n(deep sigh)\n\nSee what you can do?",
+    "6a32c51d228fb3131a22075f": "Inspect the computers",
+    "6a32adcedaf5d75358b38d33 successMessageText": "So you're good with computers, too?",
+
+    "6a32ad691497cb4d0a333928 name": "Logistics collection",
+    "6a32ad691497cb4d0a333928 description": "Try to find everything you need, I'll be waiting for you.\n\n(she jumped off the table and left)\n\nThen come to me with the loot",
+    "6a32ad691497cb4d0a333928 startedMessageText": "~Logistics collection~ \n\nTry to find everything you need, I'll be waiting for you.\n\n(she jumped off the table and left)\n\nThen come to me with the loot",
+    "6a32c5a8078f816458847f69": "Find the power supply",
+    "6a32c5a7f94be05c9f9ec474": "Find RAM",
+    "6a32c5a784adb60567720cb5": "Find PROCESSOR cooler",
+    "6a32c5a9213e004c83b0c579": "Find power cable",
+    "6a32ad691497cb4d0a333928 successMessageText": "Great, you're a cool person! It's not a problem to find something for you, let's go to the office...",
+
+    "6a32ad548763604510f8f6a1 name": "Logistics activation",
+    "6a32ad548763604510f8f6a1 description": "Why don't you insert the components and I'll connect the wires?",
+    "6a32ad548763604510f8f6a1 startedMessageText": "~Logistics activation~ \n\nWhy don't you insert the components and I'll connect the wires?",
+    "6a32ad7c29e52e0960aacc7d": "Install the power supply",
+    "6a32c4e91cc427e39dccb845": "Install the RAM",
+    "6a32c4f7f811e40fae187471": "Install the processor cooler",
+    "6a34a08fba752d05f3742933": "Transfer the power cable to Miyuka",
+    "6a32ad548763604510f8f6a1 successMessageText": "Wow, look, everything is working, now it remains to hire staff and you can supply all Tarkov with our goods! Good job! I'll take care of the logistics, and you can come tomorrow.",
+
+    "6a32ad47bc22f415bb58bbe4 name": "A little trouble", 
+    "6a32ad47bc22f415bb58bbe4 description": "[you approach Miyuki's base and hear something crashing towards you]\n\nTrouble!!! Trouble!!!\n\n(runs up to you)\n\nTrouble! Hurry up and run to the dormitory exit by car.\n\n(breathing quickly)\n\n I left Tarkov yesterday, I had to go to the city to buy some things for the base and...\n\n(sits down and looks at you)\n\nI think I left some papers in the car about our logistics...",
+    "6a32ad47bc22f415bb58bbe4 startedMessageText": "~A little trouble~ \n\n[you approach Miyuki's base and hear something crashing towards you]\n\nTrouble!!! Trouble!!!\n\n(runs up to you)\n\nTrouble! Hurry up and run to the dormitory exit by car.\n\n(breathing quickly)\n\n I left Tarkov yesterday, I had to go to the city to buy some things for the base and...\n\n(sits down and looks at you)\n\nI think I left some papers in the car about our logistics...",
+    "6a32ad51de851d94e6035520": "Find a car",
+    "6a32c9860dc0ab682356bc8b": "Take a ride in a car",
+    "6a32ad47bc22f415bb58bbe4 successMessageText": "Didn't find it? Hehe, it's like this, I found them while waiting for you, but there was no connection to report... That's what happens when you work all night without sleep... In general, here take the compensation. 'Received: money' I hope you don't mind? Come tomorrow, we'll chat.",
+
+    "6a32ad3374e07d2cfe17fdd0 name": "First order",
+    "6a32ad3374e07d2cfe17fdd0 description": "Hi, I didn't doubt that you'd come\n\n(sitting with a satisfied face)\n\nToday, I have a huge request for you, and you're going to be shocked. We have our first order!\n\n(bringing the paper)\n\nLook, we have an order for 25 AK-series assault rifles, and we need to find or purchase them somewhere. We'll be paid 1,800,000 rubles\n\n(scratching her head with her paw)\n\nDo you agree with 50%?",
+    "6a32ad3374e07d2cfe17fdd0 startedMessageText": "~First order~ \n\nHi, I didn't doubt that you'd come\n\n(sitting with a satisfied face)\n\nToday, I have a huge request for you, and you're going to be shocked. We have our first order!\n\n(bringing the paper)\n\nLook, we have an order for 25 AK-series assault rifles, and we need to find or purchase them somewhere. We'll be paid 1,800,000 rubles\n\n(scratching her head with her paw)\n\nDo you agree with 50%?",  
+    "6a32ad3fdca048d1062d0bbd": "Find 25 AK74 assault rifles",
+    "6a32ad3374e07d2cfe17fdd0 successMessageText": "Wow... All we have to do is sell it, and we're rich!",
+
+    "6a32ad0f080bc795acf8fc4d name": "End of the first chapter",
+    "6a32ad0f080bc795acf8fc4d description": "[You have completed the first chapter] P.s. I will post it gradually, one chapter at a time, so stay tuned for updates. I will try to make it as quick as possible. I have thought through the plot, and there will be 6 chapters. I need to write scripts and intermediate tasks, and some of the tasks will change the outcome of the plot. Thank you for downloading my mod! Miyuki and I are grateful to you!",
+    "6a32ad0f080bc795acf8fc4d startedMessageText": "~End of the first chapter~ \n\nTransfer 25 AK-series assault rifles",
+    "6a32ad0e7e61e0db1a846580": "Transfer 25 AK-series assault rifles",
+    "6a32ad0f080bc795acf8fc4d successMessageText": "Listen, I think I can trust you. So, I'm going to ask you for a favor. Here, take this card to access the lab, get ready, and come to me. I'll tell you the plan. You've received a card to access the lab.",
+
+    "6a32ad00b11f5465069db9a9 name": "Exploration labs",
+    "6a32ad00b11f5465069db9a9 description": "Ready? Then listen carefully, I've given you a card to enter the lab, which I needed to escape. Don't lose it, you'll need it again. Here's the plan: go to the lab in the evening, and as soon as it's 7 p.m., use the card to open the door and enter. I'll give you a camera, and you can take a walk around. I'll be watching from a distance. But be careful, there's a strong security presence, and you might have to engage in combat. When you're ready to leave, pull the lever in the room above the parking lot. You'll probably encounter serious security, so be careful. Grab something and run here. Good luck!",
+    "6a32ad00b11f5465069db9a9 startedMessageText": "~Exploration labs~ \n\n             ",
+    "6a32ad0c6c4304dd80bf50b4": "Conduct reconnaissance at the lab and return alive",
+    "6a32ad00b11f5465069db9a9 successMessageText": " ... "
 }
