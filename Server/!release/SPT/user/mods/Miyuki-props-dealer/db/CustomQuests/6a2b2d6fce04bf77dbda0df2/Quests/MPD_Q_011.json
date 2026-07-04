@@ -1,0 +1,187 @@
+{
+    "6a32ad691497cb4d0a333928":
+    {
+        "QuestName": "Logistics collection",
+        "_id": "6a32ad691497cb4d0a333928",
+
+        "traderId": "6a2b2d6fce04bf77dbda0df2",
+
+
+        "status": 0,
+        "changeStandingCost": 0,
+
+
+        "image": "/files/quest/icon/6a32ad691497cb4d0a333928.png",
+
+        "location": "56f40101d2720b2a4d8b45d6",
+        "type": "Completion",
+        "acceptanceAndFinishingSource": "eft",
+        "progressSource": "eft",
+        "side": "Pmc",
+
+
+        "isKey": false,
+        "restartable": false,
+        "instantComplete": false,
+        "secretQuest": false,
+        "canShowNotificationsInGame": true,
+
+
+        "rewards": 
+        {
+            "Started": [],
+            "Success": 
+            [
+                {
+                    "availableInGameEditions": [],
+                    "gameMode": 
+                    [
+                        "regular",
+                        "pve"
+                    ],
+                    "id": "6a30c4b20b47d1eb0882d14a",
+                    "isHidden": false,
+                    "type": "Experience",
+                    "unknown": false,
+                    "value": 1500
+                },
+                {
+                    "availableInGameEditions": [],
+                    "gameMode": [
+                      "regular",
+                      "pve"
+                    ],
+                    "id": "6a30c4be42f51019dfb8ab32",
+                    "isHidden": false,
+                    "target": "6a2b2d6fce04bf77dbda0df2",
+                    "type": "TraderStanding",
+                    "unknown": false,
+                    "value": 0.05
+                }
+        
+            ],
+            "Fail": []
+        },
+
+
+        "conditions": 
+        {
+            "AvailableForStart": 
+            [                                                                                  
+                {
+                "availableAfter":  0,
+                "conditionType":  "Quest",
+                "dispersion":  0,
+                "dynamicLocale":  false,
+                "globalQuestCounterId":  "",
+                "id":  "6a32adcedaf5d75358b38d33",
+                "index":  0,
+                "parentId":  "",
+                "status":  [4],
+                "target":  "6a32adcedaf5d75358b38d33",
+                "visibilityConditions":  []
+                }
+            ],
+            "AvailableForFinish": 
+            [
+                {
+                    "conditionType": "FindItem",
+                    "countInRaid": false,
+                    "dogtagLevel": 0,
+                    "dynamicLocale": false,
+                    "globalQuestCounterId": "",
+                    "id": "6a32c5a8078f816458847f69",
+                    "index": 0,
+                    "isEncoded": false,
+                    "maxDurability": 100,
+                    "minDurability": 0,
+                    "onlyFoundInRaid": true,
+                    "parentId": "",
+                    "target": 
+                    [
+                        "57347c2e24597744902c94a1"
+                    ],
+                    "value": 1,
+                    "visibilityConditions": []
+                },
+                {
+                    "conditionType": "FindItem",
+                    "countInRaid": false,
+                    "dogtagLevel": 0,
+                    "dynamicLocale": false,
+                    "globalQuestCounterId": "",
+                    "id": "6a32c5a7f94be05c9f9ec474",
+                    "index": 0,
+                    "isEncoded": false,
+                    "maxDurability": 100,
+                    "minDurability": 0,
+                    "onlyFoundInRaid": true,
+                    "parentId": "",
+                    "target": 
+                    [
+                        "57347baf24597738002c6178"
+                    ],
+                    "value": 1,
+                    "visibilityConditions": []
+                },
+                {
+                    "conditionType": "FindItem",
+                    "countInRaid": false,
+                    "dogtagLevel": 0,
+                    "dynamicLocale": false,
+                    "globalQuestCounterId": "",
+                    "id": "6a32c5a784adb60567720cb5",
+                    "index": 0,
+                    "isEncoded": false,
+                    "maxDurability": 100,
+                    "minDurability": 0,
+                    "onlyFoundInRaid": true,
+                    "parentId": "",
+                    "target": 
+                    [
+                        "5734779624597737e04bf329"
+                    ],
+                    "value": 1,
+                    "visibilityConditions": []
+                },
+                {
+                    "conditionType": "FindItem",
+                    "countInRaid": false,
+                    "dogtagLevel": 0,
+                    "dynamicLocale": false,
+                    "globalQuestCounterId": "",
+                    "id": "6a32c5a9213e004c83b0c579",
+                    "index": 0,
+                    "isEncoded": false,
+                    "maxDurability": 100,
+                    "minDurability": 0,
+                    "onlyFoundInRaid": true,
+                    "parentId": "",
+                    "target": 
+                    [
+                        "59e36c6f86f774176c10a2a7"
+                    ],
+                    "value": 1,
+                    "visibilityConditions": []
+                }
+            ],
+            "Fail": []
+        },
+        
+        "acceptPlayerMessage": "6a32ad691497cb4d0a333928 acceptPlayerMessage",
+        "changeQuestMessageText": "6a32ad691497cb4d0a333928 changeQuestMessageText",
+        "completePlayerMessage": "6a32ad691497cb4d0a333928 completePlayerMessage",
+        "declinePlayerMessage": "6a32ad691497cb4d0a333928 declinePlayerMessage",
+        "description": "6a32ad691497cb4d0a333928 description",
+        "failMessageText": "6a32ad691497cb4d0a333928 failMessageText",
+        "name": "6a32ad691497cb4d0a333928 name",
+        "note": "6a32ad691497cb4d0a333928 note",
+        "startedMessageText": "6a32ad691497cb4d0a333928 startedMessageText",
+        "successMessageText": "6a32ad691497cb4d0a333928 successMessageText",
+
+
+        "rankingModes": [],
+        "gameModes": [],
+        "arenaLocations": []
+    }
+}

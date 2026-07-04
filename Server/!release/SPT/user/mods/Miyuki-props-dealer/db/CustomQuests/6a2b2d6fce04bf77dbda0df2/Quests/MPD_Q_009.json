@@ -1,0 +1,183 @@
+{
+    "6a32adc16f7f62269975267e":
+    {
+        "QuestName": "Truck repair",
+        "_id": "6a32adc16f7f62269975267e",
+
+        "traderId": "6a2b2d6fce04bf77dbda0df2",
+
+
+        "status": 0,
+        "changeStandingCost": 0,
+
+
+        "image": "/files/quest/icon/6a32adc16f7f62269975267e.png",
+
+        "location": "56f40101d2720b2a4d8b45d6",
+        "type": "Completion",
+        "acceptanceAndFinishingSource": "eft",
+        "progressSource": "eft",
+        "side": "Pmc",
+
+
+        "isKey": false,
+        "restartable": false,
+        "instantComplete": false,
+        "secretQuest": false,
+        "canShowNotificationsInGame": true,
+
+
+        "rewards": 
+        {
+            "Started": [],
+            "Success": 
+            [
+                {
+                    "availableInGameEditions": [],
+                    "gameMode": 
+                    [
+                        "regular",
+                        "pve"
+                    ],
+                    "id": "6a30c4b20b47d1eb0882d14a",
+                    "isHidden": false,
+                    "type": "Experience",
+                    "unknown": false,
+                    "value": 1500
+                },
+                {
+                    "availableInGameEditions": [],
+                    "findInRaid": false,
+                    "gameMode": [
+                      "regular",
+                      "pve"
+                    ],
+                    "id": "6a3497dd8d607d14a7db633f",
+                    "isEncoded": false,
+                    "isHidden": false,
+                    "items": [
+                      {
+                        "_id": "6a2b2d6fce04bf77dbda0df2",
+                        "_tpl": "5449016a4bdc2d6f028b456f",
+                        "upd": {
+                          "StackObjectsCount": 150000
+                        }
+                      }
+                    ],
+                    "target": "6a2b2d6fce04bf77dbda0df2",
+                    "type": "Item",
+                    "unknown": false,
+                    "value": 125000
+                },
+                {
+                    "availableInGameEditions": [],
+                    "gameMode": [
+                      "regular",
+                      "pve"
+                    ],
+                    "id": "6a30c4be42f51019dfb8ab32",
+                    "isHidden": false,
+                    "target": "6a2b2d6fce04bf77dbda0df2",
+                    "type": "TraderStanding",
+                    "unknown": false,
+                    "value": 0.05
+                }
+        
+            ],
+            "Fail": []
+        },
+
+
+        "conditions": 
+        {
+            "AvailableForStart": 
+            [                                                                                  
+                {
+                "availableAfter":  0,
+                "conditionType":  "Quest",
+                "dispersion":  0,
+                "dynamicLocale":  false,
+                "globalQuestCounterId":  "",
+                "id":  "6a32ada233a3bdb64c54ac12",
+                "index":  0,
+                "parentId":  "",
+                "status":  [4],
+                "target":  "6a32ada233a3bdb64c54ac12",
+                "visibilityConditions":  []
+                }
+            ],
+            "AvailableForFinish": 
+            [
+                {
+                    "completeInSeconds": 0,
+                    "conditionType": "CounterCreator",
+                    "counter": 
+                    {
+                      "conditions": 
+                      [
+                        {
+                          "conditionType": "VisitPlace",
+                          "dynamicLocale": false,
+                          "id": "6a32c324e4a5d9e240080867",
+                          "target": "008_visit",
+                          "value": 1
+                        }
+                      ],
+                      "id": "63a7d6d61f06d111271f5aec"
+                    },
+                    "doNotResetIfCounterCompleted": false,
+                    "dynamicLocale": false,
+                    "globalQuestCounterId": "",
+                    "id": "6a32c324e4a5d9e240080867",
+                    "index": 0,
+                    "isNecessary": false,
+                    "isResetOnConditionFailed": false,
+                    "oneSessionOnly": true,
+                    "parentId": "",
+                    "type": "Discover",
+                    "value": 1,
+                    "visibilityConditions": []
+                },
+
+                {
+                  "conditionType": "LeaveItemAtLocation",
+                  "dogtagLevel": 0,
+                  "dynamicLocale": false,
+                  "globalQuestCounterId": "",
+                  "id": "6a32c354b790f2ff545fa18f",
+                  "index": 0,
+                  "isEncoded": false,
+                  "maxDurability": 0,
+                  "minDurability": 0,
+                  "onlyFoundInRaid": false,
+                  "parentId": "",
+                  "plantTime": 60,
+                  "target": 
+                  [
+                    "5734795124597738002c6176"
+                  ],
+                  "value": 1,
+                  "visibilityConditions": [],
+                  "zoneId": "009_place"
+                }
+            ],
+            "Fail": []
+        },
+        
+        "acceptPlayerMessage": "6a32adc16f7f62269975267e acceptPlayerMessage",
+        "changeQuestMessageText": "6a32adc16f7f62269975267e changeQuestMessageText",
+        "completePlayerMessage": "6a32adc16f7f62269975267e completePlayerMessage",
+        "declinePlayerMessage": "6a32adc16f7f62269975267e declinePlayerMessage",
+        "description": "6a32adc16f7f62269975267e description",
+        "failMessageText": "6a32adc16f7f62269975267e failMessageText",
+        "name": "6a32adc16f7f62269975267e name",
+        "note": "6a32adc16f7f62269975267e note",
+        "startedMessageText": "6a32adc16f7f62269975267e startedMessageText",
+        "successMessageText": "6a32adc16f7f62269975267e successMessageText",
+
+
+        "rankingModes": [],
+        "gameModes": [],
+        "arenaLocations": []
+    }
+}

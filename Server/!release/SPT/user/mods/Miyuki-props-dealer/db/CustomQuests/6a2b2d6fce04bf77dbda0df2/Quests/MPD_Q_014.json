@@ -1,0 +1,133 @@
+{
+    "6a32ad3374e07d2cfe17fdd0":
+    {
+        "QuestName": "A little trouble",
+        "_id": "6a32ad3374e07d2cfe17fdd0",
+
+        "traderId": "6a2b2d6fce04bf77dbda0df2",
+
+
+        "status": 0,
+        "changeStandingCost": 0,
+
+
+        "image": "/files/quest/icon/6a32ad3374e07d2cfe17fdd0.png",
+
+        "location": "56f40101d2720b2a4d8b45d6",
+        "type": "Completion",
+        "acceptanceAndFinishingSource": "eft",
+        "progressSource": "eft",
+        "side": "Pmc",
+
+
+        "isKey": false,
+        "restartable": false,
+        "instantComplete": false,
+        "secretQuest": false,
+        "canShowNotificationsInGame": true,
+
+
+        "rewards": 
+        {
+            "Started": [],
+            "Success": 
+            [
+                {
+                    "availableInGameEditions": [],
+                    "gameMode": 
+                    [
+                        "regular",
+                        "pve"
+                    ],
+                    "id": "6a30c4b20b47d1eb0882d14a",
+                    "isHidden": false,
+                    "type": "Experience",
+                    "unknown": false,
+                    "value": 8500
+                },
+                {
+                    "availableInGameEditions": [],
+                    "gameMode": [
+                      "regular",
+                      "pve"
+                    ],
+                    "id": "6a30c4be42f51019dfb8ab32",
+                    "isHidden": false,
+                    "target": "6a2b2d6fce04bf77dbda0df2",
+                    "type": "TraderStanding",
+                    "unknown": false,
+                    "value": 0.05
+                }
+        
+            ],
+            "Fail": []
+        },
+
+
+        "conditions": 
+        {
+            "AvailableForStart": 
+            [                                                                                  
+                {
+                    "availableAfter":  0,
+                    "conditionType":  "Quest",
+                    "dispersion":  0,
+                    "dynamicLocale":  false,
+                    "globalQuestCounterId":  "",
+                    "id":  "6a32ad47bc22f415bb58bbe4",
+                    "index":  0,
+                    "parentId":  "",
+                    "status":  [4],
+                    "target":  "6a32ad47bc22f415bb58bbe4",
+                    "visibilityConditions":  []
+                }
+            ],
+            "AvailableForFinish": 
+            [
+
+                {
+                    "conditionType": "FindItem",
+                    "countInRaid": false,
+                    "dogtagLevel": 0,
+                    "dynamicLocale": false,
+                    "globalQuestCounterId": "",
+                    "id": "6a32ad3fdca048d1062d0bbd",
+                    "index": 0,
+                    "isEncoded": false,
+                    "maxDurability": 100,
+                    "minDurability": 0,
+                    "onlyFoundInRaid": true,
+                    "parentId": "",
+                    "target": 
+                    [
+                        "5644bd2b4bdc2d3b4c8b4572",
+                        "5ac4cd105acfc40016339859",
+                        "5ab8e9fcd8ce870019439434",
+                        "5bf3e03b0db834001d2c4a9c",
+                        "5bf3e0490db83400196199af"
+                    ],
+                    "value": 25,
+                    "visibilityConditions": []
+                }
+
+            ],
+            "Fail": []
+        },
+        
+        "acceptPlayerMessage": "6a32ad3374e07d2cfe17fdd0 acceptPlayerMessage",
+        "changeQuestMessageText": "6a32ad3374e07d2cfe17fdd0 changeQuestMessageText",
+        "completePlayerMessage": "6a32ad3374e07d2cfe17fdd0 completePlayerMessage",
+        "declinePlayerMessage": "6a32ad3374e07d2cfe17fdd0 declinePlayerMessage",
+        "description": "6a32ad3374e07d2cfe17fdd0 description",
+        "failMessageText": "6a32ad3374e07d2cfe17fdd0 failMessageText",
+        "name": "6a32ad3374e07d2cfe17fdd0 name",
+        "note": "6a32ad3374e07d2cfe17fdd0 note",
+        "startedMessageText": "6a32ad3374e07d2cfe17fdd0 startedMessageText",
+        "successMessageText": "6a32ad3374e07d2cfe17fdd0 successMessageText",
+
+
+        "rankingModes": [],
+        "gameModes": [],
+        "arenaLocations": []
+    }
+}
