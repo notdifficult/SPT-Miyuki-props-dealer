@@ -17,7 +17,7 @@
 
 > # history information
 
-> - Chapter one: Acquaintance ( 8 out of 16 )
+> - Chapter one: Acquaintance (16 Quests)
 > - Chapter two: A tense moment (soon)
 > - Chapter Three: Finding leads (soon)
 > - Chapter Four: Salvation Object M (soon)
