@@ -59,18 +59,18 @@
                     "items": 
                     [
                         {
-                            "_id": "6a2b2d6fce04bf77dbda0df2",
-                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "_id": "6a49530bba5f9d71cbd82b6a",
+                            "_tpl": "5c94bbff86f7747ee735c08f",
                             "upd": 
                             {
-                            "StackObjectsCount": 15000
+                            "StackObjectsCount": 1
                             }
                         }
                     ],
-                    "target": "6a2b2d6fce04bf77dbda0df2",
+                    "target": "6a49530bba5f9d71cbd82b6a",
                     "type": "Item",
                     "unknown": false,
-                    "value": 15000
+                    "value": 1
                 },
                 {
                     "availableInGameEditions": [],
@@ -117,7 +117,7 @@
                     "dogtagLevel": 0,
                     "dynamicLocale": false,
                     "globalQuestCounterId": "",
-                    "id": "6a32ad3fdca048d1062d0bbd",
+                    "id": "6a32ad0e7e61e0db1a846580",
                     "index": 0,
                     "isEncoded": false,
                     "maxDurability": 100,
