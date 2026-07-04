@@ -1,15 +1,15 @@
 [
   {
-    "ZoneId": "resort_marker_visit",
-    "ZoneName": "resort_marker_visit",
-    "ZoneLocation": "Shoreline",
+    "ZoneId": "008_visit",
+    "ZoneName": "008_visit",
+    "ZoneLocation": "bigmap",
     "ZoneType": "visit",
     "FlareType": "",
     "Position": 
     {
-      "X": "3438.6275",
-      "Y": "223.051996",
-      "Z": "127.68216",
+      "X": "58.328",       
+      "Y": "1.186",
+      "Z": "-52.521",
       "W": "0"
     },
     "Rotation": 
@@ -31,17 +31,19 @@
 
 
 
+
+
   {
-    "ZoneId": "mpd_place_1",
-    "ZoneName": "mpd_place_1",
+    "ZoneId": "009_place",
+    "ZoneName": "009_place",
     "ZoneLocation": "bigmap",
     "ZoneType": "placeitem",
     "FlareType": "",
     "Position": 
     {
-      "X": "224.6272",
-      "Y": "23.831592",
-      "Z": "23.6558",
+      "X": "58.466",
+      "Y": "1.186",
+      "Z": "-52.314",
       "W": "0"
     },
     "Rotation": 
@@ -58,5 +60,160 @@
       "Z": "2",
       "W": "0"
     }
+  },
+
+
+
+
+
+  {
+    "ZoneId": "010_visit",
+    "ZoneName": "010_visit",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": 
+    {
+      "X": "65.729",
+      "Y": "7.803",
+      "Z": "-64.996",
+      "W": "0"
+    },
+    "Rotation": 
+    {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": 
+    {
+      "X": "3",
+      "Y": "1",
+      "Z": "3",
+      "W": "0"
+    }
+  },
+
+
+
+
+
+  {
+    "ZoneId": "012_place_1", 
+    "ZoneName": "012_place_1",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": 
+    {
+      "X": "67.858",
+      "Y": "7.797",
+      "Z": "-64.230",
+      "W": "0"
+    },
+    "Rotation": 
+    {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": 
+    {
+      "X": "4",
+      "Y": "1",
+      "Z": "2",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "012_place_2",
+    "ZoneName": "012_place_2",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": 
+    {
+      "X": "64.649",
+      "Y": "7.797",
+      "Z": "-65.353",
+      "W": "0"
+    },
+    "Rotation": 
+    {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": 
+    {
+      "X": "4",
+      "Y": "1",
+      "Z": "2",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "012_place_3",
+    "ZoneName": "012_place_3",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": 
+    {
+      "X": "66.866",
+      "Y": "7.797",
+      "Z": "-64.921",
+      "W": "0"
+    },
+    "Rotation": 
+    {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": 
+    {
+      "X": "4",
+      "Y": "1",
+      "Z": "2",
+      "W": "0"
+    }
+  },
+
+
+
+
+    {
+    "ZoneId": "013_visit",
+    "ZoneName": "013_visit",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": 
+    {
+      "X": "179.437",       
+      "Y": "-1.678",
+      "Z": "211.651",
+      "W": "0"
+    },
+    "Rotation": 
+    {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": 
+    {
+      "X": "3",
+      "Y": "1",
+      "Z": "3",
+      "W": "0"
+    }
   }
 ]
+
