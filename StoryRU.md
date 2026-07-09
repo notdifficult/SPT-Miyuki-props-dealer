@@ -172,8 +172,52 @@
 ---
 `Q_007` ?? (0.60 REP 11500 XP)
 ---   
-<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32181cc026373af1c2c652.png" width="768" height="432"> 
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a3219c3f6accaab1e461d31.png" width="768" height="432"> 
 
+---
+`Q_008` ?? (0.65 REP 11500 XP)
+--- 
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad0f080bc795acf8fc4d.png" width="768" height="432"> 
+
+---
+`Q_009` ?? (0.70 REP 11500 XP)
+--- 
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad3374e07d2cfe17fdd0.png" width="768" height="432"> 
+
+---
+`Q_010` ?? (0.75 REP 11500 XP)
+--- 
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad47bc22f415bb58bbe4.png" width="768" height="432"> 
+
+---
+`Q_011` ?? (0.80 REP 11500 XP)
+--- 
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad548763604510f8f6a1.png" width="768" height="432"> 
+
+---
+`Q_012` ?? (0.85 REP 11500 XP)
+--- 
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad691497cb4d0a333928.png" width="768" height="432"> 
+
+---
+`Q_013` ?? (0.90 REP 11500 XP)
+--- 
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad93052fe6a00e2eec26.png" width="768" height="432"> 
+
+---
+`Q_014` ?? (0.95 REP 11500 XP)
+--- 
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ada233a3bdb64c54ac12.png" width="768" height="432"> 
+
+---
+`Q_015` ?? (1.00 REP 11500 XP)
+--- 
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32adc16f7f62269975267e.png" width="768" height="432"> 
+
+---
+`Q_100` ?? (1.05 REP 11500 XP)
+--- 
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32adcedaf5d75358b38d33.png" width="768" height="432"> 
 
 
 
