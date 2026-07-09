@@ -1,3 +1,7 @@
+## ОСТОРОЖНО СПОЙЛЕРЫ!!! ОСТОРОЖНО СПОЙЛЕРЫ!!!
+ТУТ ВСЯ ИСТОРИЯ МИЮКИ ПО КВЕСТАМ, ЕСЛИ ВАМ ВАЖЕН СЮЖЕТ НЕ ЧИТАЙТЕ!
+
+
 # История Миюки
 Меня зовут Миюки, прияттно познакомится)
 Я секретный эксперимент номер С416. разрабатываемый в TerraGroup Labs.
@@ -172,7 +176,7 @@
 ---
 `Q_007` Сервис и обслуживание (0.60 REP 11500 XP)
 ---   
-<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a3219c3f6accaab1e461d31.png" width="768" height="432"> 
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad93052fe6a00e2eec26.png" width="768" height="432"> 
 
 - Эй!
 
@@ -195,50 +199,196 @@
 - Заходи завтра, нужно будет кое с чем помочь.
 
 ---
-`Q_008` ?? (0.65 REP 11500 XP)
---- 
-<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad0f080bc795acf8fc4d.png" width="768" height="432"> 
-
----
-`Q_009` ?? (0.70 REP 11500 XP)
---- 
-<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad3374e07d2cfe17fdd0.png" width="768" height="432"> 
-
----
-`Q_010` ?? (0.75 REP 11500 XP)
---- 
-<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad47bc22f415bb58bbe4.png" width="768" height="432"> 
-
----
-`Q_011` ?? (0.80 REP 11500 XP)
---- 
-<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad548763604510f8f6a1.png" width="768" height="432"> 
-
----
-`Q_012` ?? (0.85 REP 11500 XP)
---- 
-<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad691497cb4d0a333928.png" width="768" height="432"> 
-
----
-`Q_013` ?? (0.90 REP 11500 XP)
---- 
-<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad93052fe6a00e2eec26.png" width="768" height="432"> 
-
----
-`Q_014` ?? (0.95 REP 11500 XP)
+`Q_008` Осмотр фуры (0.65 REP 13000 XP)
 --- 
 <img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ada233a3bdb64c54ac12.png" width="768" height="432"> 
 
+- Хэй, ты вернулся
+
+`(вас обнюхали)`
+
+- Надеюсь у тебя хорошее настроение и ты полон сил.
+
+`(садится перед вами)`
+
+- Возможно, ты видел в центре базы есть фура.
+
+`(почесала задней лапой за ухом)`
+
+- В общем... посмотри, что с ней, там скорее всего проводку дикие повредили, а я пока отдохну.
+
+`(ложится на диван и закрывает глаза)`
+
+` > вы осмотрели фуру на базе Миюки ` +0.05 REP +1500EXP
+
+- Повредили проводку ключа зажигания? Вот возьми изоленту 
+
+` > вы получили предмет: изолента `
+
 ---
-`Q_015` ?? (1.00 REP 11500 XP)
+`Q_009` Ремонт фуры (0.70 REP 14500 XP)
 --- 
 <img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32adc16f7f62269975267e.png" width="768" height="432"> 
 
+- Посмотри, может еще что-то сломалось там, потом приходи.
+ 
+`(ложится на пол, злится)`
+ 
+- Расскажешь потом, как успехи и изоленту не забудь взять с собой! 
+ 
+`(злобно бормочет)`
+ 
+- ...Тупые дикие ненавижу...
+
+` >  вы отремонтировали проводку фуры поттратив всю изоленту ` +0.05 REP +1500EXP
+
+- Да ты прям мастер своего дела! Хорошая работа, должна хорошо оплачиваться, возьми... 
+
+` > вы получили деньги `
+
+- Приходи завтра, у меня найдется для тебе еще дело.
+  
 ---
-`Q_100` ?? (1.05 REP 11500 XP)
+`Q_010` Логистика подготовка (0.75 REP 16000 XP)
 --- 
 <img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32adcedaf5d75358b38d33.png" width="768" height="432"> 
 
+- Привет пойдем за мной...
+
+`(ведет вас в офис)`
+
+- Благодаря твоим золотым рукам, у нас теперь есть фура, она поможет развозить наши товары в будущем.
+
+`(запрыгивает на стол)`
+
+- Видишь эти старые компы? Тут не хватает запчастей
+
+`(глубоко вздыхает)`
+
+- Посмотришь, что можно сделать?
+
+` > вы осмотрели компьютеры ` +0.05 REP +1500EXP
+
+- Получается и в компах шаришь?
+
+---
+`Q_011` Логистика сбор (0.80 REP 17500 XP)
+--- 
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad691497cb4d0a333928.png" width="768" height="432"> 
+
+- Попробуй найди все необходимое, я буду ждать тебя.
+
+`(спрыгнула со стола и уходит)`
+
+- Потом заходи ко мне с лутом
+
+` > вы нашли: блок питания, оперативную память, процессорный кулер, силовой кабель ` +0.05 REP +1500EXP
+
+- Отлично, ты крутой человек! Найти для тебя что то, не составляет проблем, пошли в офис...
+
+---
+`Q_012` логистика активация (0.85 REP 19000 XP)
+--- 
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad548763604510f8f6a1.png" width="768" height="432"> 
+
+- Давай ты вставишь комплектующие, а я подключу провода?
+
+` > вы передали Миюке силовой кабель `
+
+` (Миюки взяла в зубы провода и пошла разбираться с проводами) `
+
+` > вы установили блок питания, оперативную память, процессорный кулер ` +0.05 REP +1500EXP
+
+- Ого, смотри, все работает, теперь осталось нанять персонал и можно снабжать весь Тарков нашим товаром! Ты молодец!
+  
+- Пока я займусь логистикой, а ты приходи завтра.
+
+
+---
+`Q_013` Небольшая беда (0.90 REP 20500 XP)
+--- 
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad47bc22f415bb58bbe4.png" width="768" height="432"> 
+
+`[вы подходите к базе Миюки и слышите как с грохотом, что-то несется к вам]`
+
+Беда!!! Беда!!!
+
+`(подбегает к вам)`
+
+Беда! Срочно собирайся и беги к выходу у общаги на машине.
+
+`(быстро дышит)`
+
+Я вчера выезжала из Таркова, мне нужно было в город купить некоторые вещи, для базы и...
+
+`(садится и смотрит на тебя)`
+
+Я похоже забыла в машине бумаги, по нашей логистике...
+
+` > вы отправились к возможному месту стоянки машины и обнаружили её `
+
+` > вы сели в автомобиль и пока ехали на ней обыскали всё в салоне, но ничего не нашли ` +0.05 REP +1500EXP
+
+- Не нашел? Хе-хе, тут такое дело, я их нашла пока тебя ждала, но связи не было что-бы сообщить... 
+
+- Вот что бывает, когда работаешь всю ночь, без сна... 
+
+- В общем вот возьми компенсацию.
+
+` > вы получили деньги ` 
+
+- Надеюсь, ты не в обиде? Приходи завтра, поболтаем.
+
+
+---
+`Q_014` Первый заказ (0.95 REP 22000 XP)
+--- 
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad3374e07d2cfe17fdd0.png" width="768" height="432"> 
+
+- Привет, я не сомневалась, что ты придешь
+
+`(сидит с довольной мордой)`
+
+- Сегодня у меня к тебе огромная просьба, ты будешь в шоке, у нас есть первый заказ!
+
+`(приносит бумагу)`
+
+- Вот смотри, заказ на 25 автоматов серии АК, нужно найти, или где-то закупить, нам заплатят 1.800.000 рублей
+
+`(почесала голову лапой)`
+
+- Тебе 50% Согласен?
+
+` > вы согласились и отправились на поиски различных 25 автоматов АК 74` +0.05 REP +8500EXP
+
+- Вау... Останется только продать и мы богаты!
+
+
+---
+`Q_100` Конец первой главы (1.00 REP 30500 XP)
+--- 
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32ad0f080bc795acf8fc4d.png" width="768" height="432"> 
+
+`[Вы завершили первую главу]`
+
+` > вы нашли передали 25 автоматов серии АК74 Миюке ` +0.05 REP +1500EXP
+
+- Слушай, мне кажется, я могу тебе доверять.
+
+- По этому, я попрошу тебя об одолжении.
+
+- Вот возьми карточку, для входа в лабу, подготовься и приходи ко мне, я расскажу тебе план.
+
+` > вы получили карточку для доступа к лаборатории `
+
+# Глава вторая: Напряженный момент.
+
+---
+`Q_101` Разведка лабы (1.05 REP 32000 XP)
+--- 
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a32adcedaf5d75358b38.png" width="768" height="432"> 
+
+Готов? Значит слушай внимательно, я тебе дала карточку, для входа в лабу, она была нужна мне, что бы сбежать, не потеряй, она еще понадобится. Значит план такой, вечером иди к лабе, как только наступит 19 часов, открывай дверь карточкой и входи. Я тебе дам камеру, прогуляешься там, я понаблюдаю. Но будь осторожен, там серьезная охрана и скорее всего придется вступить в бой. Как будешь готов выходить, дерни рычаг, в комнате над парковкой, скорее всего тебя встретит серьезная охрана, береги голову! Прихвати с собой что-нибудь и беги сюда. Удачи тебе!",
 
 
 
