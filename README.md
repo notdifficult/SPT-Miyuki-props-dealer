@@ -1,5 +1,5 @@
 # Miyuki props dealer [SPT 4.0.13](https://www.sp-tarkov.com/) 
-(This is [Escape from Tarkov](www.escapefromtarkov.com) [SPT Server Plugin](https://www.sp-tarkov.com/) )
+(This is [Escape from Tarkov](https://www.escapefromtarkov.com) [SPT Server Plugin](https://www.sp-tarkov.com/) )
 
 <div>
    <h1>
