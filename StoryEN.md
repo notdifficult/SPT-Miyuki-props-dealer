@@ -1,7 +1,7 @@
+## CAUTION SPOILERS!!! CAUTION SPOILERS!!!
+THIS IS THE ENTIRE MYUKI QUEST STORY, IF YOU CARE ABOUT THE PLOT, DON'T READ!
+
 # Miyuki story
-
-- English translation
-
 My name is miyuki, nice to meet you)
 I am a secret experiment number C416. developed at TerraGroup Labs.
 The essence of the experiment was to create intelligent beings who think no worse than humans. 
@@ -11,12 +11,17 @@ Now I live in the customs area and sell junk that would be enough for food.
 I need people like you to rise from the bottom. 
 I will give you various tasks and we can rise from the bottom together)
 
-~ `The story continues through quests.` 
+~ `the story continues and is revealed through quests`
 
+~ `Description explanation - (quest number QXXX) (name) (current reputation level) (experience gained)`
 
-# (NUMBER QUEST `QXXX`) (NAME QUEST)
-`Q_000` acquaintance 
+~ `Action explanation: 1. (Miyuki's actions) 2. [your actions] 3. > active action`
+
+# Chapter One: Getting to Know Miyuki.
+`Q_000` acquaintance  (0.20 REP 0 XP)
 ---
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a30a15f30aeb083bdea48be.png" width="768" height="432"> 
+
 - Hey you!
   
 `(you didn't understand where the sound came from)`
@@ -39,8 +44,10 @@ I will give you various tasks and we can rise from the bottom together)
 
 
 ---
-`Q_001` dialogue 
+`Q_001` dialogue (0.25 REP 1500 XP)
 ---
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a30d0e9937ed3ced76c9488.png" width="768" height="432"> 
+
 - Well, then listen...
  
 `(drinks milk)`
@@ -57,7 +64,10 @@ I will give you various tasks and we can rise from the bottom together)
 
 
 ---
-`Q_002` `SOON`
+`Q_002` `SOON` (0.30 REP 3000 XP)
+---
+<img src="https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/Server/!release/SPT/user/mods/Miyuki-props-dealer/db/CustomQuests/6a2b2d6fce04bf77dbda0df2/Images/6a31f49ebdc4479f88db51d7.png" width="768" height="432"> 
+
 ---
 
 # I'm sorry, but the English translation will be delayed until I finish the first chapter. it's difficult to work in two languages at once, and it gets confusing. My native language is Russian.
