@@ -22,7 +22,11 @@
 >    - 
    > - [История на Русском](StoryRU.md)
 >    - 
-
+   > - [Mod change log](mod-changelog.md)
+>    - 
+   > - [LICENSE](LICENSE)
+>    - 
+  
    <br>
     
 </div>
